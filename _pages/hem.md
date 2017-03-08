@@ -47,4 +47,4 @@ Vi har det, vi kan det, vi startade det och vi har erfarenhet av tusentals lyc
 </div>
 </div>
 <div id="collection5" class="h24_collection h24_last_collection " data-collection-index="5"></div>
-[/vc_column_text][vc_single_image image="101" img_size="full" alignment="center"][box_frame title="Bli BubbleBall.se-partner - ANSÖK HÄR!"][/box_frame][/vc_column][vc_column width="1/2"][heading2 title="Gilla oss på Facebook"][vc_facebook][/vc_column][/vc_row]
+[/vc_column_text][vc_single_image image="101" img_size="full" alignment="center"][button color="theme" href="http://www.bubbleball.se/om-bubble-ball/bli-partner-till-oss-22464589"]Bli BubbleBall.se-partner - ANSÖK HÄR![/button][/vc_column][vc_column width="1/2"][heading2 title="Gilla oss på Facebook"][vc_facebook][/vc_column][/vc_row]
