@@ -1,12 +1,12 @@
 ---
-ID: 171
+ID: 197
 post_title: Örebro
 author: ennol
-post_date: 2017-03-08 19:07:10
+post_date: 2017-03-08 19:12:41
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/erbjudanden/orebro/
+  http://stockholmcoder.com/har-finns-vi/orebro/
 published: true
 slide_template:
   - default
