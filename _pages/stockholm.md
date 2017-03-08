@@ -29,7 +29,7 @@ mo_primary_sidebar_choice:
 <div id="block_container_89195420" class="block_container presentation_image_block">
 <div id="block_89195420">
 <div class="h24_normal_text">
-<div class="h24_image_block_align h24_image_block_align_left    "><a class="h24-js-iv" title="" href="http://dst15js82dk7j.cloudfront.net/183390/49434591-HV9Kq.jpg"><img id="block_img_89195420" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/49434590-2lzLk.jpg" alt="" /></a></div>
+<div class="h24_image_block_align h24_image_block_align_left "><a class="h24-js-iv" title="" href="http://dst15js82dk7j.cloudfront.net/183390/49434591-HV9Kq.jpg"><img id="block_img_89195420" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/49434590-2lzLk.jpg" alt="" /></a></div>
 </div>
 </div>
 </div>
@@ -47,6 +47,7 @@ Våra kunder är allt från stora och mindre företag till svensexor, möhippor
 Vanligtvis spelar vi på Gärdet i centrala Stockholm, men kommer självklart ut med bollarna till vilka platser som helst i hela 08-området. Berätta bara vart ni befinner er så kommer vi dit! Under vinterhalvåret spelar vi inhomhus och bokar då en hall för detta (har ni en hall att tillgå är det förståss ännu bättre).
 
 Om ni vill ha fler aktiviteter på ert event, besök då vår hemsida <a href="http://www.aktiviteterstockholm.se/" target="_blank">aktiviteterstockholm.se</a>
+
 </div>
 </div>
 </div>
