@@ -18,7 +18,7 @@ mo_custom_primary_navigation_menu:
 mo_primary_sidebar_choice:
   - default
 ---
-[vc_row][vc_column width="1/3"][heading2 title="BubbleBall i hela Sverige"][vc_single_image image="102" img_size="medium"][vc_column_text el_class="blockcontent"]<b>Om Bubbleball</b>
+[vc_row][vc_column width="1/3" el_class="blackbg"][heading2 title="BubbleBall i hela Sverige"][vc_single_image image="102" img_size="medium"][vc_column_text el_class="blockcontent"]<b>Om Bubbleball</b>
 En fartfylld aktivitet, där ni på ett säkert sätt kan tackla kollegorna. Garanterat skratt, fart och härliga närkamper. Spela fotboll iklädda luftfyllda skyddsvästar i form av bollar.
 
 Vanligaste aktiviteterna är fotbollsturnering, gladiator-rugby eller "human bowling".
