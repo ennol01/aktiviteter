@@ -32,7 +32,7 @@ Ta emot en rejäl tackling och studsa upp igen med ett leende på läpparna och 
  	<li>En match pågår 5 minuter (låter lite, men det räcker, vi lovar)</li>
  	<li>När alla mött alla går vi mot finalspelen och till sist har vi en bubblande glad vinnare.</li>
  	<li>En turnering tar ca 1-2 timmar</li>
- 	<li><strong>Skaderisken</strong> är i stort sett obefintlig för friska personer, men BubbleBall lämpar sig inte för <strong>gravida eller personer med problem eller skador i rygg eller nacke.</strong></li>
+ 	<li><span style="color: #ff6600;"><strong>Skaderisken</strong> är i stort sett obefintlig för friska personer, men BubbleBall lämpar sig inte för <strong>gravida eller personer med problem eller skador i rygg eller nacke.</strong></span></li>
 </ul>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/3"][heading2 title="Detta ingår"][vc_column_text]
 <ul>
