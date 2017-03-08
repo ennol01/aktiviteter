@@ -18,8 +18,8 @@ mo_custom_primary_navigation_menu:
 mo_primary_sidebar_choice:
   - default
 ---
-[vc_row][vc_column][heading2 title="Om BubbleBall / BumperBall / LoopyBall / ZorbBall - kärt barn har många namn*" pitch_text="a great sport"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][heading2 title="Vad är det?"][vc_column_text]En fartfylld aktivitet, där ni på ett säkert sätt kan tackla vänner eller kollegor. Garanterat skratt, fart och härliga närkamper. Spela fotboll iklädda luftfyllda skyddsvästar i form av bollar.
-
+[vc_row][vc_column][heading2 title="Om BubbleBall / BumperBall / LoopyBall / ZorbBall - kärt barn har många namn*" pitch_text="a great sport" style="
+<h4>"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][heading2 title="Vad är det?"][vc_column_text]En fartfylld aktivitet, där ni på ett säkert sätt kan tackla vänner eller kollegor. Garanterat skratt, fart och härliga närkamper. Spela fotboll iklädda luftfyllda skyddsvästar i form av bollar.</h4>
 Det finns nästan inga begränsningar på vad man kan hitta på med bollarna, men vanligaste aktiviteterna är fotbollsturnering, gladiator-rugby eller bowling. Vad just ni vill göra bestämmer ni i förväg eller på plats i samråd med instruktören.
 
 Bubble football kan spelas på gräs, konstgräs eller inomhus.[/vc_column_text][/vc_column][vc_column width="1/3"][heading2 title="Så går det till"][vc_column_text]En instruktör möter upp er på den plats ni valt att boka er aktivitet. Instruktören visar er grunderna. Det tar inte lång tid innan ni fintar, tacklar och gör målgester på egen hand.
