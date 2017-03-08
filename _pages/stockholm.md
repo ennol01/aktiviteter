@@ -1,12 +1,12 @@
 ---
-ID: 165
+ID: 167
 post_title: Stockholm
 author: ennol
-post_date: 2017-03-08 19:05:46
+post_date: 2017-03-08 19:06:12
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/har-finns-vi/stockholm/
+  http://stockholmcoder.com/erbjudanden/stockholm/
 published: true
 slide_template:
   - default
