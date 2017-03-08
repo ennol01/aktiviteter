@@ -19,7 +19,7 @@ mo_custom_primary_navigation_menu:
 mo_primary_sidebar_choice:
   - default
 mo_description:
-  - dfg
+  - ""
 ---
 <div id="block_container_88053719" class="block_container h24_block_heading">
 <div id="block_88053719">
