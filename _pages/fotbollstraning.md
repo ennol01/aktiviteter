@@ -6,7 +6,7 @@ post_date: 2017-03-08 19:03:49
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/fotbollstraning/
+  http://stockholmcoder.com/om-bubble-ball/fotbollstraning/
 published: true
 slide_template:
   - default
