@@ -1,6 +1,6 @@
 ---
 ID: 165
-post_title: Stockholm
+post_title: Bubbleball och Bumperball i Stockholm
 author: ennol
 post_date: 2017-03-08 19:05:46
 post_excerpt: ""
@@ -27,7 +27,7 @@ partnerkontakt:
     <div id="block_container_88053722" class="block_container presentation_image_block">
     <div id="block_88053722">
     <div class="h24_normal_text">
-    <div class="h24_image_block_align h24_image_block_align_left    "><a class="h24-js-iv" title="" href="http://dst15js82dk7j.cloudfront.net/183390/48383926-ZMjAp.jpg"><img id="block_img_88053722" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/48383925-C4m1n.jpg" alt="" /></a></div>
+    <div class="h24_image_block_align h24_image_block_align_left "><a class="h24-js-iv" title="" href="http://dst15js82dk7j.cloudfront.net/183390/48383926-ZMjAp.jpg"><img id="block_img_88053722" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/48383925-C4m1n.jpg" alt="" /></a></div>
     </div>
     </div>
     </div>
@@ -54,14 +54,7 @@ partnerkontakt:
 <div id="block_container_88053719" class="block_container h24_block_heading">
 <div id="block_88053719">
 <div class="big_heading_block">
-<div id="block_88053719_text_content" class="">Bubbleball och Bumperball i Stockholm</div>
-</div>
-</div>
-</div>
-<div id="block_container_89195420" class="block_container presentation_image_block">
-<div id="block_89195420">
-<div class="h24_normal_text">
-<div class="h24_image_block_align h24_image_block_align_left "><a class="h24-js-iv" title="" href="http://dst15js82dk7j.cloudfront.net/183390/49434591-HV9Kq.jpg"><img id="block_img_89195420" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/49434590-2lzLk.jpg" alt="" /></a></div>
+<div id="block_88053719_text_content" class=""><a class="h24-js-iv" title="" href="http://dst15js82dk7j.cloudfront.net/183390/49434591-HV9Kq.jpg"><img id="block_img_89195420" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/49434590-2lzLk.jpg" alt="" /></a></div>
 </div>
 </div>
 </div>
