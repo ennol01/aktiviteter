@@ -1,6 +1,6 @@
 ---
 ID: 130
-post_title: 'Om BubbleBall / BumperBall / LoopyBall / ZorbBall &#8211; kärt barn har många namn*'
+post_title: ""
 author: ennol
 post_date: 2017-03-08 12:31:16
 post_excerpt: ""
@@ -18,40 +18,21 @@ mo_custom_primary_navigation_menu:
 mo_primary_sidebar_choice:
   - default
 ---
-[vc_row][vc_column width="1/3"][heading2 title="Vad är det?"][vc_column_text el_class="blockcontent"]En fartfylld aktivitet, där ni på ett säkert sätt kan tackla vänner eller kollegor. Garanterat skratt, fart och härliga närkamper. Spela fotboll iklädda luftfyllda skyddsvästar i form av bollar.
+[vc_row][vc_column width="1/3"][heading2 title="BubbleBall i hela Sverige"][vc_column_text el_class="blockcontent"]<b>Om Bubbleball</b>
+En fartfylld aktivitet, där ni på ett säkert sätt kan tackla kollegorna. Garanterat skratt, fart och härliga närkamper. Spela fotboll iklädda luftfyllda skyddsvästar i form av bollar.
 
-Det finns nästan inga begränsningar på vad man kan hitta på med bollarna, men vanligaste aktiviteterna är fotbollsturnering, gladiator-rugby eller bowling. Vad just ni vill göra bestämmer ni i förväg eller på plats i samråd med instruktören.
+Vanligaste aktiviteterna är fotbollsturnering, gladiator-rugby eller "human bowling".
 
-Bubble football kan spelas på gräs, konstgräs eller inomhus.[/vc_column_text][/vc_column][vc_column width="1/3"][heading2 title="Så går det till"][vc_column_text]En instruktör möter upp er på den plats ni valt att boka er aktivitet. Instruktören visar er grunderna. Det tar inte lång tid innan ni fintar, tacklar och gör målgester på egen hand.
+Upplägget är helt mobilt, vi kommer till er i hela Sverige. Man spelar på gräs, konstgräs eller inomhus.[/vc_column_text][/vc_column][vc_column width="1/3"][heading2 title="Upplev BubbleBall"][vc_column_text]<strong>Hur kul vill ni ha??</strong>
+Det finns inga begränsningar på vad man kan hitta på med bollarna, men den vanligaste aktiviteten är att köra en fotbollsturnering.
 
-Man spänner på sig bollarna med två bärremmar, ungefär som en ryggsäck, och det finns två handtag att hålla i för bästa möjliga grepp. Bollarna täcker överkroppen och slutar en bra bit över huvudet för största möjliga säkerhet, utan att andningen hämmas.
+Kolla in våra roliga videoklipp med bl.a fotboll, bowling och anndra idéer på vad ni kan göra på ert event.
 
-Ta emot en rejäl tackling och studsa upp igen med ett leende på läpparna och revansch i sinnet.[/vc_column_text][/vc_column][vc_column width="1/3"][heading2 title="Spelet"][vc_column_text]
+Upplägget är helt mobilt, vi kommer till er med bollar och annan utrustning. Vi spelar på gräs, konstgräs eller inomhus.[/vc_column_text][/vc_column][vc_column width="1/3"][heading2 title="Vi kan det här!"][vc_column_text]
 <ul>
- 	<li>Vanligast: Matcherna spelas om lag med 4-6 personer.</li>
- 	<li>En match pågår 5 minuter (låter lite, men det räcker, vi lovar)</li>
- 	<li>När alla mött alla går vi mot finalspelen och till sist har vi en bubblande glad vinnare.</li>
- 	<li>En turnering tar ca 1-2 timmar</li>
- 	<li><span style="color: #ff6600;"><strong>Skaderisken</strong> är i stort sett obefintlig för friska personer, men BubbleBall lämpar sig inte för <strong>gravida eller personer med problem eller skador i rygg eller nacke.</strong></span></li>
-</ul>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/3"][heading2 title="Detta ingår"][vc_column_text]
-<ul>
- 	<li>BubbelBall-turnering</li>
- 	<li>Instruktör/domare</li>
- 	<li>Upp till 60 bubbelballs</li>
- 	<li>Mål och lagvästar</li>
-</ul>
-[/vc_column_text][/vc_column][vc_column width="1/3"][heading2 title="Tillval"][vc_column_text]
-<ul>
- 	<li>Middag</li>
- 	<li>Transport</li>
- 	<li>Dryckespaket</li>
- 	<li>Musikanläggning</li>
- 	<li>Fler grenar (se t ex vår nyhet <a href="http://www.bubbleball.se/k%C3%B6p-produkter/nytt-archertag!-29196235">ArcherTag</a>)</li>
-</ul>
-[/vc_column_text][/vc_column][vc_column width="1/3"][heading2 title="Antal deltagare &amp; plats"][vc_column_text]
-<ul>
- 	<li>Aktiviteten lämpar sig för 8-150 personer</li>
- 	<li>Vi spelar endast på gräs, konstgräs eller inomhus.</li>
+ 	<li><strong>Först i Sverige på BubbleBall</strong>
+Vi har det, vi kan det, vi startade det och vi har erfarenhet av tusentals lyckliga kunder.Vanligaste kommentaren: "<em><strong>det här är det roligaste vi någonsin gjort"</strong></em> säger både spelare och åskådare. Vi har utvecklat materialet i samråd med producenten och har nu de mest hållbara BubbleBall-bollarna på marknaden.
+
+Boka turnering med företaget, svensexan, möhippan eller idrottslaget nu!</li>
 </ul>
 [/vc_column_text][/vc_column][/vc_row]
