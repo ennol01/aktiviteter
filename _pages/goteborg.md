@@ -1,12 +1,12 @@
 ---
-ID: 169
+ID: 181
 post_title: Göteborg
 author: ennol
-post_date: 2017-03-08 19:06:50
+post_date: 2017-03-08 19:09:15
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/erbjudanden/goteborg/
+  http://stockholmcoder.com/har-finns-vi/goteborg/
 published: true
 slide_template:
   - default
