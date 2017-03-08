@@ -20,6 +20,8 @@ mo_primary_sidebar_choice:
   - default
 mo_description:
   - ""
+kontakt:
+  - ' Eventmanager:   Madde Dahlin Telefon: 08-21 85 05 Mejl: info@bubbleball.se  Övriga tjänster: Konferenser Catering/middagar Andra aktiviteter Valfri spelplats'
 ---
 <div id="block_container_88053719" class="block_container h24_block_heading">
 <div id="block_88053719">
