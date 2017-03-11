@@ -1,6 +1,6 @@
 ---
 ID: 130
-post_title: ""
+post_title: Hem
 author: ennol
 post_date: 2017-03-08 12:31:16
 post_excerpt: ""
@@ -8,7 +8,7 @@ layout: page
 permalink: http://stockholmcoder.com/
 published: true
 slide_template:
-  - default
+  - ""
 mo_slider_choice:
   - None
 mo_revolution_slider_choice:
