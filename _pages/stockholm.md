@@ -19,7 +19,7 @@ mo_custom_primary_navigation_menu:
 mo_primary_sidebar_choice:
   - default
 ---
-[vc_row][vc_column][heading2 title="Erbjudande i Stockholm: Testa den nya flugan, Archertag - pilbågskrig!"][vc_single_image image="314" img_size="full" alignment="center"][/vc_column][vc_column width="4/6"][vc_btn title="Till webbokningen" color="orange" i_type="typicons" i_icon_typicons="typcn typcn-calendar-outline" add_icon="true"][vc_column_text]Archertag + Bubbleball = Dubbelt så roligt!
+[vc_row][vc_column][heading2 title="Erbjudande i Stockholm: Testa den nya flugan, Archertag - pilbågskrig!"][vc_single_image image="314" img_size="full" alignment="center"][/vc_column][vc_column width="4/6"][vc_column_text]Archertag + Bubbleball = Dubbelt så roligt!
 Undrar du vad Archerytag är? Klicka här
 
 Spela två hysteriskt roliga spel på en samma dag:
@@ -29,7 +29,7 @@ Ordinarie pris; 780:-
 Nu betalar endast 590:- per person.
 Minsta debitering är 8 personer (ordinarie 10 pers)
 
-Gör din förfrågan här:[/vc_column_text][heading2 title="Bokningsregler"][vc_column_text]
+Gör din förfrågan här:[/vc_column_text][vc_btn title="Till webbokningen" color="warning" align="center" i_type="typicons" i_icon_typicons="typcn typcn-calendar-outline" css_animation="fadeInDown" button_block="true" add_icon="true"][heading2 title="Bokningsregler"][vc_column_text]
 <ul>
  	<li>Kund debiteras anmält antal deltagare (minsta debitering 10 personer)</li>
  	<li>Senast 48 timmar innan event skall kund bekräfta antal betalande deltagare.</li>
@@ -40,7 +40,7 @@ Gör din förfrågan här:[/vc_column_text][heading2 title="Bokningsregler"][vc_
 </ul>
 &nbsp;
 
-[/vc_column_text][vc_video link="https://www.youtube.com/watch?v=uQLSsrEFLjM"][/vc_column][vc_column width="2/6"][vc_single_image image="316" img_size="full" title="Referenser"][heading2 title="Bokning - sker via mejl"][vc_column_text]
+[/vc_column_text][vc_video link="https://www.youtube.com/watch?v=uQLSsrEFLjM"][/vc_column][vc_column width="2/6"][vc_single_image image="316" img_size="full"][heading2 title="Bokning - sker via mejl"][vc_column_text]
 <ol>
  	<li>Skicka följande till info@bubbleball.se
 <ul>
