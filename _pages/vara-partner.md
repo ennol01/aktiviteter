@@ -1,11 +1,12 @@
 ---
-ID: 288
+ID: 153
 post_title: Våra Partner
 author: ennol
-post_date: 2017-03-29 17:46:05
+post_date: 2017-03-08 19:02:33
 post_excerpt: ""
 layout: page
-permalink: http://stockholmcoder.com/vara-partner/
+permalink: >
+  http://stockholmcoder.com/om-bubble-ball/vara-partner/
 published: true
 slide_template:
   - default
@@ -17,78 +18,6 @@ mo_custom_primary_navigation_menu:
   - default
 mo_primary_sidebar_choice:
   - default
-mo_disable_breadcrumbs_for_entry:
-  - 'a:1:{i:0;s:3:"Yes";}'
 ---
-[vc_row][vc_column][vc_column_text]
-<div id="block_container_85881179" class="block_container h24_block_heading">
-<div id="block_85881179">
-<div class="big_heading_block">
-<div id="block_85881179_text_content" class="">Vi levererar Bubbleball och Bumperball till hela Sverige!</div>
-</div>
-</div>
-</div>
-<div id="block_container_85881180" class="block_container standard_text_block text_block">
-<div id="block_85881180">
-<div class="h24_frame_none h24_frame_width">
-<div class="h24_frame_none_text h24_frame_padding">
-<div class="text_content">
-
-Vi har partner i hela landet. De orter där vi saknar lokalkontor täcker vi uppmed vår mobila verksamhet. Så finns vi inte på just din ort så åker vi mer än gärna ut till er och levererar ert event. Tveka inte att höra av er om ni är intresserade av att spela BubbleBall!
-
-</div>
-</div>
-</div>
-</div>
-</div>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
-<div id="block_container_85881179" class="block_container h24_block_heading">
-<div id="block_85881179">
-<div class="big_heading_block">
-<div id="block_85881179_text_content" class="">
-<div id="block_container_98458541" class="block_container h24_block_heading">
-<div id="block_98458541">
-<div class="small_heading_block">
-<div id="block_98458541_text_content" class="">Störst på BubbleBall i Sverige</div>
-</div>
-</div>
-</div>
-<div id="block_container_98458540" class="block_container standard_text_block text_block">
-<div id="block_98458540">
-<div id="block_98458540_text_content" class="text_content">
-
-Vi finns idag i Stockholm, Västerås, Uppsala, Nyköping, Norrtälje, Rimbo, Åkersberga, Ven, Malmö, Landskrona, Karlskrona, Karlshamn, Halmstad, Göteborg, Eskilstuna, Strängnäs, Örebro, Värnamo, Jönköping, Sundsvall, Luleå, Karlstad, Helsingborg, Åre, Östersund och Umeå och fler Bubbleball-partner öppnar upp under 2016.
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
-<div id="block_container_85881179" class="block_container h24_block_heading">
-<div id="block_85881179">
-<div class="big_heading_block">
-<div id="block_85881179_text_content" class="">
-<div id="block_container_98458541" class="block_container h24_block_heading">
-<div id="block_98458541">
-<div class="small_heading_block">
-<div id="block_98458541_text_content" class="">Störst på BubbleBall i Sverige</div>
-</div>
-</div>
-</div>
-<div id="block_container_98458540" class="block_container standard_text_block text_block">
-<div id="block_98458540">
-<div id="block_98458540_text_content" class="text_content">
-
-Vi finns idag i Stockholm, Västerås, Uppsala, Nyköping, Norrtälje, Rimbo, Åkersberga, Ven, Malmö, Landskrona, Karlskrona, Karlshamn, Halmstad, Göteborg, Eskilstuna, Strängnäs, Örebro, Värnamo, Jönköping, Sundsvall, Luleå, Karlstad, Helsingborg, Åre, Östersund och Umeå och fler Bubbleball-partner öppnar upp under 2016.
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-[/vc_column_text][/vc_column][/vc_row]
+[vc_row][vc_column width="1/2"][heading2 title="Vi levererar Bubbleball och Bumperball till hela Sverige!"][vc_column_text]Vi har partner i hela landet. De orter där vi saknar lokalkontor täcker vi uppmed vår mobila verksamhet. Så finns vi inte på just din ort så åker vi mer än gärna ut till er och levererar ert event. Tveka inte att höra av er om ni är intresserade av att spela BubbleBall![/vc_column_text][vc_btn][heading2 title="Störst på BubbleBall i Sverige"][vc_column_text]Vi finns idag i Stockholm, Västerås, Uppsala, Nyköping, Norrtälje, Rimbo, Åkersberga, Ven, Malmö, Landskrona, Karlskrona, Karlshamn, Halmstad, Göteborg, Eskilstuna, Strängnäs, Örebro, Värnamo, Jönköping, Sundsvall, Luleå, Karlstad, Helsingborg, Åre, Östersund och Umeå och fler Bubbleball-partner öppnar upp under 2016.[/vc_column_text][heading2 title="Vi söker fler partner!"][vc_column_text]Vill du starta en verksamhet eller har du redan ett eventföretag som vill utöka portfolion med BubbleBalls så tveka inte att kontakta oss om att bli en av våra partner!
+Vi erbjuder ett startpaket med bollar, västar, mål, pumpar, flaggor samt marknadsför er - allt i ett och samma deal. Ring oss på <strong>08-21 85 05</strong> eller klicka nedan för mer info om detta.[/vc_column_text][/vc_column][vc_column width="1/2"][heading2 title="Karta över BubbleBall-partner i Sverige"][vc_gmaps link="#E-8_aHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZkJTJGdmlld2VyJTNGbWlkJTNEMVFQclhhVC1OMjNma1ZPcVZRNzhxODgwMVF2SSUyNmxsJTNENjAuNDk5MTY0MzA1NDk4MDg0JTI1MkMxNS44NDMwNzQ5NzQyMzA4MyUyNnolM0Q0"][/vc_column][/vc_row]
