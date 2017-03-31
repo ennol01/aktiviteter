@@ -1,12 +1,12 @@
 ---
-ID: 165
-post_title: Bubbleball och Bumperball i Stockholm
+ID: 167
+post_title: Stockholm
 author: ennol
-post_date: 2017-03-08 19:05:46
+post_date: 2017-03-08 19:06:12
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/har-finns-vi/stockholm/
+  http://stockholmcoder.com/erbjudanden/stockholm/
 published: true
 slide_template:
   - default
@@ -18,61 +18,42 @@ mo_custom_primary_navigation_menu:
   - default
 mo_primary_sidebar_choice:
   - default
-mo_description:
-  - ""
-kontakt:
-  - ' Eventmanager:   Madde Dahlin Telefon: 08-21 85 05 Mejl: info@bubbleball.se  Övriga tjänster: Konferenser Catering/middagar Andra aktiviteter Valfri spelplats'
-partnerkontakt:
-  - |
-    <div id="block_container_88053722" class="block_container presentation_image_block">
-    <div id="block_88053722">
-    <div class="h24_normal_text">
-    <div class="h24_image_block_align h24_image_block_align_left "><a class="h24-js-iv" title="" href="http://dst15js82dk7j.cloudfront.net/183390/48383926-ZMjAp.jpg"><img id="block_img_88053722" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/48383925-C4m1n.jpg" alt="" /></a></div>
-    </div>
-    </div>
-    </div>
-    <div id="block_container_88053720" class="block_container standard_text_block text_block">
-    <div id="block_88053720">
-    <div id="block_88053720_text_content" class="text_content">
-    
-    <strong>Eventmanager:</strong>
-    Madde Dahlin
-    Telefon: 08-21 85 05
-    Mejl: info@bubbleball.se
-    
-    <strong>Övriga tjänster:</strong>
-    <ul>
-    <li>Konferenser</li>
-    <li>Catering/middagar</li>
-    <li>Andra aktiviteter</li>
-    <li>Valfri spelplats</li>
-    </ul>
-    </div>
-    </div>
-    </div>
 ---
-<div id="block_container_88053719" class="block_container h24_block_heading">
-<div id="block_88053719">
-<div class="big_heading_block">
-<div id="block_88053719_text_content" class=""><a class="h24-js-iv" title="" href="http://dst15js82dk7j.cloudfront.net/183390/49434591-HV9Kq.jpg"><img id="block_img_89195420" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/49434590-2lzLk.jpg" alt="" /></a></div>
-</div>
-</div>
-</div>
-<div id="block_container_89195419" class="block_container standard_text_block text_block">
-<div id="block_89195419">
-<div id="block_89195419_text_content" class="text_content">
+[vc_row][vc_column][heading2 title="Erbjudande i Stockholm: Testa den nya flugan, Archertag - pilbågskrig!"][vc_single_image image="314" img_size="full"][/vc_column][vc_column width="4/6"][vc_btn title="Till webbokningen" color="orange" i_type="typicons" i_icon_typicons="typcn typcn-calendar-outline" add_icon="true"][vc_column_text]Archertag + Bubbleball = Dubbelt så roligt!
+Undrar du vad Archerytag är? Klicka här
 
-Vi kan glatt säga att det var vi som startade denna sport som nu lavinartat sköljer över Sverige. Vi spelar, och har spelat, på 100-tals olika platser med 1000-tals nöjda kunder.
-- Alla säger samma sak; Det här är otroligt roligt!
+Spela två hysteriskt roliga spel på en samma dag:
+1 timme Bubbleball
+1 timme Archertag
+Ordinarie pris; 780:-
+Nu betalar endast 590:- per person.
+Minsta debitering är 8 personer (ordinarie 10 pers)
 
-Våra kunder är allt från stora och mindre företag till svensexor, möhippor, skolor och idrottsföreningar.
+Gör din förfrågan här:[/vc_column_text][heading2 title="Bokningsregler"][vc_column_text]
+<ul>
+ 	<li>Kund debiteras anmält antal deltagare (minsta debitering 10 personer)</li>
+ 	<li>Senast 48 timmar innan event skall kund bekräfta antal betalande deltagare.</li>
+ 	<li>Avbokning senare än 48 timmar debiteras 100% av eventet.</li>
+ 	<li>Avbokning 7 dagar innan debiteras 50% av bokat antal deltagare</li>
+ 	<li>Avbokning 14 dagar innan event kan avbokas kostnadsfritt (privatpersoner)</li>
+ 	<li>För företag gäller <a href="http://www.visita.se/globalassets/mitt-foretag/bokningsregler/allmanna-villkor141101_konferenser_gruppbokningar.pdf" target="_blank">Visita's (tidigare SHR) allmäna villkor för konferenser, gruppbokningar och andra arrangemang</a></li>
+</ul>
+&nbsp;
 
-<em>(**erbjudandet ovan gäller +12 personer)</em>
-
-Vanligtvis spelar vi på Gärdet i centrala Stockholm, men kommer självklart ut med bollarna till vilka platser som helst i hela 08-området. Berätta bara vart ni befinner er så kommer vi dit! Under vinterhalvåret spelar vi inhomhus och bokar då en hall för detta (har ni en hall att tillgå är det förståss ännu bättre).
-
-Om ni vill ha fler aktiviteter på ert event, besök då vår hemsida <a href="http://www.aktiviteterstockholm.se/" target="_blank">aktiviteterstockholm.se</a>
-
-</div>
-</div>
-</div>
+[/vc_column_text][vc_video link="https://www.youtube.com/watch?v=uQLSsrEFLjM"][/vc_column][vc_column width="2/6"][vc_single_image image="316" img_size="full" title="Referenser"][heading2 title="Bokning - sker via mejl"][vc_column_text]
+<ol>
+ 	<li>Skicka följande till info@bubbleball.se
+<ul>
+ 	<li>Namn, adress &amp; telenummer</li>
+ 	<li>Önskad spelplats, datum, tid och antal deltagare.</li>
+</ul>
+</li>
+ 	<li>Ni erhåller bekräftelse från oss via mejl.</li>
+</ol>
+[/vc_column_text][heading2 title="Betalning"][vc_column_text]
+<ul>
+ 	<li>Faktura</li>
+ 	<li>Swish</li>
+ 	<li>Kontant​</li>
+</ul>
+<strong><em>OBS! Vi tar inte kort!</em></strong>[/vc_column_text][/vc_column][/vc_row]
