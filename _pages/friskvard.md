@@ -19,3 +19,17 @@ mo_custom_primary_navigation_menu:
 mo_primary_sidebar_choice:
   - default
 ---
+[vc_row][vc_column][heading2 title="Bubbleball och Bumperball som friskvård"][/vc_column][vc_column width="5/6"][vc_column_text]Alla företag får friskvårdspengar för att göra något som förbättrar individens hälsostatus och välbefinnande.
+
+Fler och fler företag har upptäckt Bubbleballs fördelar och bokningarna har ökat succesivt hela det sista året.
+
+<strong>Att på ett roligt sätt förenas med sina kollegor under en friskvårdsstund har flera fördelar.</strong>
+<ul>
+ 	<li>Alla kan vara med</li>
+ 	<li>Skaderisken är i det närmaste obefintlig</li>
+ 	<li>Det är jättekul både som spelare och avbytare</li>
+ 	<li>Man förbättrar konditionen märkbart snabbt (för detta är jobbigt)</li>
+</ul>
+Kontakta oss för att diskutera ett upplägg som passar just ert företag och er personal. Vi skräddarsyr så klart!
+
+I sammarbete med <a href="http://www.eventmarket.se/aktiviteter_stockholm">Eventmarket.com</a>[/vc_column_text][/vc_column][vc_column width="1/6"][vc_single_image image="298" title="Referenser"][vc_column_text]<strong>Innebandylandslaget tränade fys med oss i Tingvallahallen</strong>[/vc_column_text][/vc_column][/vc_row]
