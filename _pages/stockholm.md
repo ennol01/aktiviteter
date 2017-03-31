@@ -19,7 +19,7 @@ mo_custom_primary_navigation_menu:
 mo_primary_sidebar_choice:
   - default
 ---
-[vc_row][vc_column][heading2 title="Erbjudande i Stockholm: Testa den nya flugan, Archertag - pilbågskrig!"][vc_single_image image="314" img_size="full"][/vc_column][vc_column width="4/6"][vc_btn title="Till webbokningen" color="orange" i_type="typicons" i_icon_typicons="typcn typcn-calendar-outline" add_icon="true"][vc_column_text]Archertag + Bubbleball = Dubbelt så roligt!
+[vc_row][vc_column][heading2 title="Erbjudande i Stockholm: Testa den nya flugan, Archertag - pilbågskrig!"][vc_single_image image="314" img_size="full" alignment="center"][/vc_column][vc_column width="4/6"][vc_btn title="Till webbokningen" color="orange" i_type="typicons" i_icon_typicons="typcn typcn-calendar-outline" add_icon="true"][vc_column_text]Archertag + Bubbleball = Dubbelt så roligt!
 Undrar du vad Archerytag är? Klicka här
 
 Spela två hysteriskt roliga spel på en samma dag:
