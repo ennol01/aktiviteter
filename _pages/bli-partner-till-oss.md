@@ -47,7 +47,7 @@ Den absolut bästa marknadsföringen står dock alla nöjda bubbleballkunder fö
 
 Som samarbetspartner tar du del av detta såklart, då det ökar hypen kring aktiviteten. Vi får redan i nuläget förfrågningar från hela landet och vi kommer att förmedla alla kundkontakter inom ert geografiska verksamhetsområde direkt till er.[/vc_column_text][heading2 title="Produktutveckling med tillverkaren"][vc_column_text]Ni arbetar som vanligt med befintliga nätverk och kundkontakter, med draghjälp av vår marknadsföring och våra toppdomäner.  De förfrågningar som inkommer via webbportalen skickar vi direkt till berörd samarbetspartner mot 15% kick back.
 
-Vi hjälper gärna till vid större arrangemang, t.ex. stora ungdomsturneringar etc. Vi har i nuläget tillgång till ett hundratal bollar.[/vc_column_text][/vc_column][vc_column width="2/6"][vc_single_image image="359" img_size="full" alignment="center" title="Referenser"][heading2 title="STARTPAKET - ny partner"][vc_column_text]
+Vi hjälper gärna till vid större arrangemang, t.ex. stora ungdomsturneringar etc. Vi har i nuläget tillgång till ett hundratal bollar.[/vc_column_text][/vc_column][vc_column width="2/6"][vc_single_image image="359" img_size="full" alignment="center"][heading2 title="STARTPAKET - ny partner"][vc_column_text]
 <ul>
  	<li>Ensamrätt i ert distrikt, samt förfrågningar utanför ert distrikt.</li>
  	<li>12 st BubbelBall-bollar av högsta kvalitet</li>
