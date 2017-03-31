@@ -19,7 +19,7 @@ mo_custom_primary_navigation_menu:
 mo_primary_sidebar_choice:
   - default
 ---
-[vc_row][vc_column][heading2 title="Köp egna waterballs"][/vc_column][vc_column width="4/6"][vc_images_carousel images="307,308,309"][heading2 title="Waterballs"][vc_column_text]Waterballs, en mågsidig glädjehöjjare. En waterball gör varje människa glad, många waterballs gör många männsikor glada samtidigt.
+[vc_row][vc_column][heading2 title="Köp egna waterballs"][/vc_column][vc_column width="4/6"][vc_images_carousel images="307,308,309" img_size="600x100"][heading2 title="Waterballs"][vc_column_text]Waterballs, en mågsidig glädjehöjjare. En waterball gör varje människa glad, många waterballs gör många männsikor glada samtidigt.
 PÅ festivaler är dessa en kassako för uthyrning, och för aktivitetsföretag ännu en aktivitet att lägga i företagets utbud.
 Pris: Rekomenderat utpris 6500:-st inkl. pump[/vc_column_text][heading2 title="Waterrollers"][vc_column_text]Inte många än som har denna otroligt roliga, sevärda dragplåster för främt barn och ungdomar. Att lägga denna i bassängen, på festivalen, badplatsen ger er publicitet på sociala medier.
 
