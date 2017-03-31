@@ -50,7 +50,7 @@ Ta emot en rejäl tackling och studsa upp igen med ett leende på läpparna och 
  	<li>Musikanläggning</li>
  	<li>Fler grenar (se t ex vår nyhet <a href="http://www.bubbleball.se/k%C3%B6p-produkter/nytt-archertag!-29196235">ArcherTag</a>)</li>
 </ul>
-[/vc_column_text][heading2 title="Videoklipp med Bubble Ball"][vc_single_image image="344" img_size="FULL"][/vc_column][vc_column width="1/3"][heading2 title="Spelet"][vc_column_text]
+[/vc_column_text][heading2 title="Videoklipp med Bubble Ball"][vc_single_image image="344" img_size="full" alignment="center"][/vc_column][vc_column width="1/3"][heading2 title="Spelet"][vc_column_text]
 <ul>
  	<li>Vanligast: Matcherna spelas om lag med 4-6 personer.</li>
  	<li>En match pågår 5 minuter (låter lite, men det räcker, vi lovar)</li>
