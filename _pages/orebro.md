@@ -1,12 +1,12 @@
 ---
-ID: 197
-post_title: Bubbleball och Bumperball i Örebro
+ID: 171
+post_title: Örebro
 author: ennol
-post_date: 2017-03-08 19:12:41
+post_date: 2017-03-08 19:07:10
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/har-finns-vi/orebro/
+  http://stockholmcoder.com/erbjudanden/orebro/
 published: true
 slide_template:
   - default
@@ -18,56 +18,47 @@ mo_custom_primary_navigation_menu:
   - default
 mo_primary_sidebar_choice:
   - default
-partnerkontakt:
-  - |
-    <div id="block_container_89363260" class="block_container presentation_image_block">
-    <div id="block_89363260">
-    <div class="h24_normal_text">
-    <div class="h24_image_block_align h24_image_block_align_left    "><img id="block_img_89363260" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/53105914-8PRHl.jpg" alt="" /></div>
-    </div>
-    </div>
-    </div>
-    <div id="block_container_89363259" class="block_container standard_text_block text_block">
-    <div id="block_89363259">
-    <div id="block_89363259_text_content" class="text_content">
-    
-    Eventmanager;
-    Björn &amp; Hassan
-    Tele: 070-654 37 37
-    Mejl: orebro@bubbleball.se
-    
-    Övriga tjänster:
-    <ul>
-    <li>Hallbokning</li>
-    <li>Catering</li>
-    <li>Transport</li>
-    <li>Läger/konferens</li>
-    </ul>
-    Extern web:
-    <a href="http://www.kloten.se/">kloten.se</a> &amp; <a href="http://www.37an.se/">37an.se</a></div>
-    </div>
-    </div>
 ---
-<div id="block_container_89363261" class="block_container presentation_image_block">
-<div id="block_89363261">
-<div class="h24_normal_text">
-<div class="h24_image_block_align h24_image_block_align_left    "><img id="block_img_89363261" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/53105910-VMQER.jpg" alt="" /></div>
-</div>
-</div>
-</div>
-<div id="block_container_89363257" class="block_container standard_text_block text_block">
-<div id="block_89363257">
-<div id="block_89363257_text_content" class="text_content">
+[vc_row][vc_column][heading2 title="Erbjudande 3-kamp BubbleBall i Örebro, söndag-torsdag"][vc_single_image image="324" img_size="full" alignment="center"][/vc_column][vc_column width="4/6"][vc_column_text]Detta ingår i erbjudandet
+<ul>
+ 	<li>3-kamp bubbleball</li>
+ 	<li>fotbollsturnering &amp; last man standing</li>
+ 	<li>1-2 timmes spel (beroende på deltagarantal)</li>
+ 	<li>Instruktör/domare</li>
+ 	<li>Fotboll, lagvästar, mål</li>
+ 	<li>Skrattgaranti</li>
+</ul>
+Pris
+295:-pp*
+Minsta debitering 10 personer
 
-<strong>Kloten Lägret AB</strong>
+<em>* Erbjudandet gäller Söndag till Torsdag (ord. pris gäller fredag och lördag)
+* Priserna gäller Örebro, platser utanför Örebro tillkommer framkörningsavgift. Fråga vid bokning.</em>
 
-Med 20 års erfarenheter har Kloten lärt sig vad som fungerar, och har många grupper årligen som bokar för att ha roligt och svetsa samman grupper.
-Likväl som vi kommer till er med aktiviteter är ni välkomna till oss.
-
-Om ni inte visste har Kloten väldigt uppskattade aktiviteter och bra boende med alla möjligheter för en minnesvärd vistelse.
-
-Värt att poängtera är höghöjd och äventyrsbanan som tusentals testat genom åren.
-
-</div>
-</div>
-</div>
+Välkomna önskar,
+Björn Persson med personal[/vc_column_text][heading2 title="Bokningsregler"][vc_column_text]
+<ul>
+ 	<li>Kund debiteras anmält antal deltagare (minsta debitering 10 personer)</li>
+ 	<li>Senast 48 timmar innan event skall kund bekräfta antal betalande deltagare.</li>
+ 	<li>Avbokning senare än 48 timmar debiteras 100% av eventet.</li>
+ 	<li>Avbokning 7 dagar innan debiteras 50% av bokat antal deltagare</li>
+ 	<li>Avbokning 14 dagar innan event kan avbokas kostnadsfritt (privatpersoner)</li>
+ 	<li>För företag gäller <a href="http://www.visita.se/globalassets/mitt-foretag/bokningsregler/allmanna-villkor141101_konferenser_gruppbokningar.pdf" target="_blank">Visita's (tidigare SHR) allmäna villkor för konferenser, gruppbokningar och andra arrangemang</a></li>
+</ul>
+[/vc_column_text][/vc_column][vc_column width="2/6"][heading2 title="Bokning - sker via mejl"][vc_column_text]
+<ol>
+ 	<li>Skicka följande till orebro@bubbleball.se
+<ul>
+ 	<li>Namn, adress &amp; telenummer</li>
+ 	<li>Önskad spelplats, datum, tid och antal deltagare.</li>
+</ul>
+</li>
+ 	<li>Ni erhåller bekräftelse från oss via mejl.</li>
+</ol>
+[/vc_column_text][heading2 title="Betalning"][vc_column_text]
+<ul>
+ 	<li>Faktura</li>
+ 	<li>Swish</li>
+ 	<li>Kontant​</li>
+</ul>
+<strong><em>OBS! Vi tar inte kort!</em></strong>[/vc_column_text][/vc_column][/vc_row]
