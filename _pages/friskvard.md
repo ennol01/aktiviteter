@@ -32,4 +32,4 @@ Fler och fler företag har upptäckt Bubbleballs fördelar och bokningarna har �
 </ul>
 Kontakta oss för att diskutera ett upplägg som passar just ert företag och er personal. Vi skräddarsyr så klart!
 
-I sammarbete med <a href="http://www.eventmarket.se/aktiviteter_stockholm">Eventmarket.com</a>[/vc_column_text][/vc_column][vc_column width="2/6"][vc_single_image image="298" img_size="full"][vc_column_text]<strong>Innebandylandslaget tränade fys med oss i Tingvallahallen</strong>[/vc_column_text][/vc_column][/vc_row]
+I sammarbete med <a href="http://www.eventmarket.se/aktiviteter_stockholm">Eventmarket.com</a>[/vc_column_text][/vc_column][vc_column width="2/6"][vc_single_image image="298" img_size="full" alignment="center"][vc_column_text]<strong>Innebandylandslaget tränade fys med oss i Tingvallahallen</strong>[/vc_column_text][/vc_column][/vc_row]
