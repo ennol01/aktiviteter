@@ -40,7 +40,7 @@ Ordinarie pris 780:-pp
  	<li>Avbokning 14 dagar innan event kan avbokas kostnadsfritt (privatpersoner)</li>
  	<li>För företag gäller <a href="http://www.visita.se/globalassets/mitt-foretag/bokningsregler/allmanna-villkor141101_konferenser_gruppbokningar.pdf" target="_blank">Visita's (tidigare SHR) allmäna villkor för konferenser, gruppbokningar och andra arrangemang</a></li>
 </ul>
-[/vc_column_text][vc_video link="https://www.youtube.com/watch?v=uQLSsrEFLjM"][/vc_column][vc_column width="2/6"][vc_single_image image="316" img_size="full"][heading2 title="Bokning - sker via mejl"][vc_column_text]
+[/vc_column_text][/vc_column][vc_column width="2/6"][vc_single_image image="316" img_size="full"][heading2 title="Bokning - sker via mejl"][vc_column_text]
 <ol>
  	<li>Skicka följande till Niklas@bubbleball.se
 (070-817 12 60)
