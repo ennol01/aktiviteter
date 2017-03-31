@@ -1,12 +1,12 @@
 ---
-ID: 181
-post_title: Bubbleball i Göteborg med omnejd
+ID: 169
+post_title: Göteborg
 author: ennol
-post_date: 2017-03-08 19:09:15
+post_date: 2017-03-08 19:06:50
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/har-finns-vi/goteborg/
+  http://stockholmcoder.com/erbjudanden/goteborg/
 published: true
 slide_template:
   - default
@@ -18,63 +18,43 @@ mo_custom_primary_navigation_menu:
   - default
 mo_primary_sidebar_choice:
   - default
-partnerkontakt:
-  - |
-    <div id="collection1" class="h24_collection  h24_last_collection   " data-collection-index="1">
-    <div id="block_container_87785680" class="block_container presentation_image_block">
-    <div id="block_87785680">
-    <div class="h24_normal_text">
-    <div class="h24_image_block_align h24_image_block_align_left  h24_image_block_radius_medium  "><img id="block_img_87785680" class="presentation_image_block_image" title="" src="http://h24-original.s3.amazonaws.com/183390/16758809-wax0Z.jpg" alt="" /></div>
-    </div>
-    </div>
-    </div>
-    <div id="block_container_90615833" class="block_container presentation_image_block">
-    <div id="block_90615833">
-    <div class="h24_normal_text">
-    <div class="h24_image_block_align h24_image_block_align_left    "><a class="h24-js-iv" title="" href="http://dst15js82dk7j.cloudfront.net/183390/50326931-4yGDe.png"><img id="block_img_90615833" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/50326930-0aySW.png" alt="" /></a></div>
-    </div>
-    </div>
-    </div>
-    <div id="block_container_87784891" class="block_container standard_text_block text_block">
-    <div id="block_87784891">
-    <div id="block_87784891_text_content" class="text_content">
-    
-    Eventmanager;
-    Niklas Luthin
-    Tele: 0708-171 260
-    Växel: 08-21 85 05
-    Mejl: niklas@bubbleball.se
-    
-    Extern websida:
-    <a href="mailto:www.luthinsevent.se">www.luthinsevent.se</a>
-    
-    </div>
-    </div>
-    <div class="clearer"></div>
-    </div>
-    </div>
 ---
-<div id="block_container_87785171" class="block_container presentation_image_block">
-<div id="block_87785171">
-<div class="h24_normal_text">
-<div class="h24_image_block_align h24_image_block_align_left  h24_image_block_radius_medium  "><img id="block_img_87785171" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/46431628-TfvyH.jpg" alt="" /></div>
-</div>
-</div>
-</div>
-<div id="block_container_87784889" class="block_container standard_text_block text_block">
-<div id="block_87784889">
-<div id="block_87784889_text_content" class="text_content">
+[vc_row][vc_column][heading2 title="Specialerbjudande i Göteborg"][/vc_column][vc_column width="4/6"][vc_single_image image="314" img_size="full" alignment="center"][heading2 title="Erbjudande Göteborg alla dagar hela året *"][vc_column_text]Detta ingår i erbjudandet;
+<ul>
+ 	<li>Ljudanläggning (först till kvarn)</li>
+ 	<li>Bubbleball &amp; archertag</li>
+ 	<li>1+1 timmes spel</li>
+ 	<li>Instruktör/domare</li>
+ 	<li>All utrustning, ni behöver endast komma dit.</li>
+ 	<li>Nöjd kund garanti</li>
+</ul>
+Priset: 590:- per person minsta debitering 10 personer.
+Ordinarie pris 780:-pp
 
-<strong>LUTHINS EVENT</strong>
-
-Vi jobbar med skräddarsydda event och aktiviteter på privata och företagsfester. Genom lång erfarenhet från restaurang och eventbranschen samt med flera värdefulla kontakter hjälper vi dig att uppfylla dina önskemål om ett lyckat arrangemang från start till mål.
-
-Vi har genomfört många Bubbleball-events i Halmstad, Göteborg, Borås, Alingsås, Varberg, Kungsbacka, Kinna, Värnamo och Falkenberg.
-
-Till och med självaste personalen från Liseberg valde oss för sitt personalevent!
-
-Välkomna med er bokning!
-
-</div>
-</div>
-</div>
+* OBS! Eventuella hyror för planer/hallar tillkommer om ni vill vi ska ombesörja bokning av detta.[/vc_column_text][heading2 title="Bokningsregler"][vc_column_text]
+<ul>
+ 	<li>Kund debiteras anmält antal deltagare (minsta debitering 10 personer)</li>
+ 	<li>Senast 48 timmar innan event skall kund bekräfta antal betalande deltagare.</li>
+ 	<li>Avbokning senare än 48 timmar debiteras 100% av eventet.</li>
+ 	<li>Avbokning 7 dagar innan debiteras 50% av bokat antal deltagare</li>
+ 	<li>Avbokning 14 dagar innan event kan avbokas kostnadsfritt (privatpersoner)</li>
+ 	<li>För företag gäller <a href="http://www.visita.se/globalassets/mitt-foretag/bokningsregler/allmanna-villkor141101_konferenser_gruppbokningar.pdf" target="_blank">Visita's (tidigare SHR) allmäna villkor för konferenser, gruppbokningar och andra arrangemang</a></li>
+</ul>
+[/vc_column_text][vc_video link="https://www.youtube.com/watch?v=uQLSsrEFLjM"][/vc_column][vc_column width="2/6"][vc_single_image image="316" img_size="full"][heading2 title="Bokning - sker via mejl"][vc_column_text]
+<ol>
+ 	<li>Skicka följande till Niklas@bubbleball.se
+(070-817 12 60)
+<ul>
+ 	<li>Namn, adress &amp; telenummer</li>
+ 	<li>Önskad spelplats, datum, tid och antal deltagare.</li>
+</ul>
+</li>
+ 	<li>Ni erhåller bekräftelse från oss via mejl.</li>
+</ol>
+[/vc_column_text][heading2 title="Betalning"][vc_column_text]
+<ul>
+ 	<li>Faktura</li>
+ 	<li>Swish</li>
+ 	<li>Kontant​</li>
+</ul>
+<strong><em>OBS! Vi tar inte kort!</em></strong>[/vc_column_text][/vc_column][/vc_row]
