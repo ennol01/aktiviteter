@@ -60,4 +60,39 @@ Vi hjälper gärna till vid större arrangemang, t.ex. stora ungdomsturneringar 
  	<li>Egen mejladress t ex namn@bubbleball.se</li>
  	<li>utrustningar levereras med varumärkestryck Bubbleball.se – kan givetvis kompletteras med valfritt eget tryck</li>
 </ul>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][heading2 title=" Anmäl intresse att bli en av våra fantastiska partners här:"][contact_form][/vc_column][/vc_row]
+[/vc_column_text][heading2 title="Pris: 68.500 kr exkl moms Frakt tillkommer"][vc_column_text]
+<div id="block_container_87788395" class="block_container standard_text_block text_block">
+<div id="block_87788395">
+<div id="block_87788395_text_content" class="text_content">
+
+Partnerpaketet har betalat sig själv på 14 genomförda event.
+Intäkt/event, genomsnitt, 5070:-( 13,5 pers a 390:-pp). 68.500kr / 5070kr = 13,5 event.
+Kalkylen är baserad på 70 genomförda event.
+
+Önskar du referenser, titta igenom vår partnerlista här på sajten. Kontakta gärna
+
+</div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="block_container_85388697" class="block_container h24_block_spacerblock"></div>
+<div id="block_container_85387803" class="block_container standard_text_block text_block"></div>
+[/vc_column_text][heading2 title="VI ÄGER TOPPDOMÄNERNA"][list]<strong>Bubbleball.se
+Bubbleball.nu
+Bubbelboll.se
+Bumperball.se
+Bumperball.nu
+Bubbleballfotboll.se
+bubbleballmalmö.se
+Bubbleballs.se
+Stockholm-Bumperball.se
+Stockholmbubbleball.se
+Loopyball.se
+Loopyball.nu
+Aktivitetersverige.se
+aktivitetergoteborg.se
+aktivitetergöteborg.se
+aktivitetermalmö.se
+aktivitetermalmoe.se
+aktiviteterstockholm.se
+aktivitetersverige.se</strong>[/list][/vc_column][/vc_row][vc_row][vc_column][heading2 title=" Anmäl intresse att bli en av våra fantastiska partners här:"][contact_form][/vc_column][/vc_row]
