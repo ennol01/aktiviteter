@@ -19,7 +19,7 @@ mo_custom_primary_navigation_menu:
 mo_primary_sidebar_choice:
   - default
 ---
-[vc_row][vc_column][heading2 title="Bubbleball och Bumperball som friskvård"][/vc_column][vc_column width="5/6"][vc_column_text]Alla företag får friskvårdspengar för att göra något som förbättrar individens hälsostatus och välbefinnande.
+[vc_row][vc_column][heading2 title="Bubbleball och Bumperball som friskvård"][/vc_column][vc_column width="4/6"][vc_column_text]Alla företag får friskvårdspengar för att göra något som förbättrar individens hälsostatus och välbefinnande.
 
 Fler och fler företag har upptäckt Bubbleballs fördelar och bokningarna har ökat succesivt hela det sista året.
 
@@ -32,4 +32,4 @@ Fler och fler företag har upptäckt Bubbleballs fördelar och bokningarna har �
 </ul>
 Kontakta oss för att diskutera ett upplägg som passar just ert företag och er personal. Vi skräddarsyr så klart!
 
-I sammarbete med <a href="http://www.eventmarket.se/aktiviteter_stockholm">Eventmarket.com</a>[/vc_column_text][/vc_column][vc_column width="1/6"][vc_single_image image="298" title="Referenser"][vc_column_text]<strong>Innebandylandslaget tränade fys med oss i Tingvallahallen</strong>[/vc_column_text][/vc_column][/vc_row]
+I sammarbete med <a href="http://www.eventmarket.se/aktiviteter_stockholm">Eventmarket.com</a>[/vc_column_text][/vc_column][vc_column width="2/6"][vc_single_image image="298" title="Referenser"][vc_column_text]<strong>Innebandylandslaget tränade fys med oss i Tingvallahallen</strong>[/vc_column_text][/vc_column][/vc_row]
