@@ -18,7 +18,7 @@ Det finns inga begränsningar på vad man kan hitta på med bollarna, men den va
 
 Kolla in våra roliga videoklipp med bl.a fotboll, bowling och anndra idéer på vad ni kan göra på ert event.
 
-Upplägget är helt mobilt, vi kommer till er med bollar och annan utrustning. Vi spelar på gräs, konstgräs eller inomhus.[/vc_column_text][/vc_column][vc_column width="1/3" el_class="blackbg"][vc_column_text][heading2 title="Vi kan det här!"][vc_single_image image="85" img_size="medium"][vc_column_text]
+Upplägget är helt mobilt, vi kommer till er med bollar och annan utrustning. Vi spelar på gräs, konstgräs eller inomhus.[/vc_column_text][/vc_column][vc_column width="1/3" el_class="blackbg"][vc_column_text][heading2 title="Vi kan det här!"][vc_single_image image="85" img_size="large"][vc_column_text]
 <ul>
  	<li><strong>Först i Sverige på BubbleBall</strong>
 Vi har det, vi kan det, vi startade det och vi har erfarenhet av tusentals lyckliga kunder.Vanligaste kommentaren: "<em><strong>det här är det roligaste vi någonsin gjort"</strong></em> säger både spelare och åskådare. Vi har utvecklat materialet i samråd med producenten och har nu de mest hållbara BubbleBall-bollarna på marknaden.Boka turnering med företaget, svensexan, möhippan eller idrottslaget nu!</li>
