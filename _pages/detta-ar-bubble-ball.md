@@ -51,4 +51,4 @@ Ta emot en rejäl tackling och studsa upp igen med ett leende på läpparna och 
  	<li>Aktiviteten lämpar sig för 8-150 personer</li>
  	<li>Vi spelar endast på gräs, konstgräs eller inomhus.</li>
 </ul>
-[/vc_column_text][list][/list][vc_btn title="Boka" color="warning" align="center" i_icon_fontawesome="fa fa-shopping-cart" button_block="true" add_icon="true"][vc_btn title="Skicka oss en fråga" color="warning" align="center" i_icon_fontawesome="fa fa-question" button_block="true" add_icon="true"][/vc_column][/vc_row]
+[/vc_column_text][list][/list][vc_btn title="Boka" style="custom" custom_background="#fc6021" custom_text="#ffffff" align="center" i_icon_fontawesome="fa fa-shopping-cart" button_block="true" add_icon="true"][vc_btn title="Skicka oss en fråga" style="custom" custom_background="#fc6021" custom_text="#ffffff" align="center" i_icon_fontawesome="fa fa-question" button_block="true" add_icon="true"][/vc_column][/vc_row]
