@@ -1,10 +1,11 @@
 ---
-ID: 189
+ID: 179
 post_title: Bokningsregler
 author: ennol
 post_excerpt: ""
 layout: page
-permalink: http://2017.archertag.se/bokningsregler/
+permalink: >
+  http://2017.bubbleball.se/boka__trashed/bokningsregler/
 published: true
 post_date: 2017-03-08 19:08:45
 ---
