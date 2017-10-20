@@ -22,7 +22,7 @@ Det finns inga begränsningar på vad man kan hitta på med bollarna, men den va
 
 Kolla in våra roliga videoklipp med bl.a fotboll, bowling och anndra idéer på vad ni kan göra på ert event.
 
-Upplägget är helt mobilt, vi kommer till er med bollar och annan utrustning. Vi spelar på gräs, konstgräs eller inomhus.[/vc_column_text][vc_btn title="Se videoklipp" style="custom" custom_background="#fc6021" custom_text="#666666" align="center" i_align="right" i_icon_fontawesome="fa fa-play-circle-o" button_block="true" add_icon="true"][/vc_column][vc_column width="1/3" el_class="blackbg"][vc_text_separator title="Vi kan det här!" color="custom" accent_color="#000000"][vc_single_image image="388" img_size="full"][vc_column_text css=".vc_custom_1508497498474{margin-top: -20px !important;}"]<strong>Först i Sverige på BubbleBall</strong>
+Upplägget är helt mobilt, vi kommer till er med bollar och annan utrustning. Vi spelar på gräs, konstgräs eller inomhus.[/vc_column_text][vc_btn title="Se videoklipp" style="custom" custom_background="#fc6021" custom_text="#666666" align="center" i_align="right" i_icon_fontawesome="fa fa-play-circle-o" button_block="true" add_icon="true"][/vc_column][vc_column width="1/3" el_class="blackbg"][vc_text_separator title="Vi kan det här!" color="custom" accent_color="#000000"][vc_single_image image="388" img_size="full"][vc_column_text css=".vc_custom_1508497528759{margin-top: -30px !important;}"]<strong>Först i Sverige på BubbleBall</strong>
 
 Vi har det, vi kan det, vi startade det och vi har erfarenhet av tusentals lyckliga kunder.
 
