@@ -1,10 +1,10 @@
 ---
-ID: 288
+ID: 262
 post_title: Våra Partner
 author: ennol
 post_excerpt: ""
 layout: page
-permalink: http://2017.bubbleball.se/vara-partner/
+permalink: http://2017.archertag.se/vara-partner/
 published: true
 post_date: 2017-03-29 17:46:05
 ---
