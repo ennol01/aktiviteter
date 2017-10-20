@@ -2,24 +2,16 @@
 ID: 155
 post_title: Bli Partner till oss
 author: ennol
-post_date: 2017-03-08 19:02:58
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/om-bubble-ball/bli-partner-till-oss/
+  http://2017.bubbleball.se/om-bubble-ball/bli-partner-till-oss/
 published: true
-slide_template:
-  - default
-mo_slider_choice:
-  - None
-mo_revolution_slider_choice:
-  - none
-mo_custom_primary_navigation_menu:
-  - default
-mo_primary_sidebar_choice:
-  - default
+post_date: 2017-03-08 19:02:58
 ---
-[vc_row][vc_column][heading2 title="Bli en av våra BubbleBall-partner i Sverige"][/vc_column][vc_column width="4/6"][vc_column_text]Trygghet med oss, vi har seriös leverantör med hög kvalitet.
+[vc_row][vc_column width="5/6" css=".vc_custom_1508492582033{margin-top: -40px !important;}"][vc_column_text css=".vc_custom_1508491377535{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: 0px !important;}"]
+<h3><span style="color: #ff00ff;"><strong>SUCCÉSPORTEN!</strong></span></h3>
+[/vc_column_text][vc_single_image image="342" img_size="full" css=".vc_custom_1508491684320{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1508492549021{margin-top: -50px !important;border-top-width: 0px !important;padding-top: 0px !important;}"]Vi ordnar spel över hela landet. Ring centralbokningen för mer info 08-21 85 05[/vc_column_text][/vc_column][vc_column width="1/6" css=".vc_custom_1508492632173{margin-top: -40px !important;}"][vc_btn title="BOKA HÄR!" style="custom" custom_background="#fc6021" custom_text="#ffffff" size="lg" align="center" css_animation="bounceInRight" button_block="true" css=".vc_custom_1508492408994{margin-top: 30px !important;margin-right: 20px !important;border-right-width: 30px !important;border-left-width: 30px !important;padding-top: 25px !important;padding-right: 10px !important;padding-bottom: 25px !important;padding-left: 10px !important;}"][/vc_column][/vc_row][vc_row][vc_column][heading2 title="Bli en av våra BubbleBall-partner i Sverige"][/vc_column][vc_column width="4/6"][vc_column_text]Trygghet med oss, vi har seriös leverantör med hög kvalitet.
 I samråd med tillverkaren har vi gradvis utvecklat materialet i de bollarna vi tillhandahåller. När vi startade verksamheten tillbringades mycket tid till att laga bollar efter genomförda event, och vi var tvungna att ta med flera reservbollar när vi var ute på jobb, det blev ohållbart.
 
 De bollar vi nu fått fram och använder är otroligt slitstarka. Vi har bara behövt göra fåtalet lagningar (ex.bollen träffade ett kvarglömt spett från ett cirkustält, kunderna trycker in polarn i skogen och där vart det haggtornsbuskar). Det finns inga BubbleBall-bollar som är lika slitstarka som våra ute på marknaden just nu.
@@ -41,7 +33,7 @@ Vill du vara en del av detta erbjuder vi dig ett enkelt och förtjänstfullt upp
  	<li>Färdiga spelsystem för alla typer av event</li>
  	<li>Garantier enligt Svensk l</li>
 </ul>
-[/vc_column_text][heading2 title="Försäljning och genomförande"][vc_column_text]Vi äger Svenska toppdomäner för både Bubble Ball, Bumper Balls och Loopy Ball. De marknadsförs primärt via adwords, <a href="https://www.facebook.com/bubbleball.se" target="_blank">Facebook</a>, <a href="https://www.linkedin.com/company/bubbleball-se" target="_blank">LinkedIn</a> och <a href="https://www.youtube.com/channel/UCqZTh9NQTc4S9JUjVGeELiw" target="_blank">Youtube</a> men även via Instagram, Twitter, mejl, telefon och direktkontakt med kunder och partner.
+[/vc_column_text][heading2 title="Försäljning och genomförande"][vc_column_text]Vi äger Svenska toppdomäner för både Bubble Ball, Bumper Balls och Loopy Ball. De marknadsförs primärt via adwords, <a href="https://www.facebook.com/bubbleball.se" target="_blank" rel="noopener">Facebook</a>, <a href="https://www.linkedin.com/company/bubbleball-se" target="_blank" rel="noopener">LinkedIn</a> och <a href="https://www.youtube.com/channel/UCqZTh9NQTc4S9JUjVGeELiw" target="_blank" rel="noopener">Youtube</a> men även via Instagram, Twitter, mejl, telefon och direktkontakt med kunder och partner.
 
 Den absolut bästa marknadsföringen står dock alla nöjda bubbleballkunder för! Så snart vi började spela på allmänna ytor spreds ryktet explosionsartat. Mouth to mouth, via kundernas inlägg på Facebook, Instagram och på Youtube.
 
