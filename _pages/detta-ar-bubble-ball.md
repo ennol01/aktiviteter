@@ -2,28 +2,14 @@
 ID: 63
 post_title: Detta är Bubble ball
 author: ennol
-post_date: 2017-03-01 16:35:37
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/om-bubble-ball/detta-ar-bubble-ball/
+  http://2017.bubbleball.se/om-bubble-ball/detta-ar-bubble-ball/
 published: true
-slide_template:
-  - default
-mo_slider_choice:
-  - None
-mo_revolution_slider_choice:
-  - none
-mo_custom_primary_navigation_menu:
-  - bubbleball
-mo_primary_sidebar_choice:
-  - default
-mo_remove_title_header:
-  - 'a:1:{i:0;s:3:"Yes";}'
-mo_disable_breadcrumbs_for_entry:
-  - 'a:1:{i:0;s:3:"Yes";}'
+post_date: 2017-03-01 16:35:37
 ---
-[vc_row][vc_column css=".vc_custom_1490967879660{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}" el_id="el_tophead"][heading2 title="Om BubbleBall / BumperBall / LoopyBall / ZorbBall - kärt barn har många namn*" style="el_tophead"][vc_images_carousel images="337,338,339,340,341,343" img_size="1150x400" onclick="link_no" autoplay="yes" hide_pagination_control="yes" hide_prev_next_buttons="yes" wrap="yes" css_animation="bounceIn"][/vc_column][/vc_row][vc_row][vc_column width="1/3" css=".vc_custom_1488971172190{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][heading2 title="Vad är det?"][vc_column_text]En fartfylld aktivitet, där ni på ett säkert sätt kan tackla vänner eller kollegor. Garanterat skratt, fart och härliga närkamper. Spela fotboll iklädda luftfyllda skyddsvästar i form av bollar.
+[vc_row][vc_column css=".vc_custom_1490967879660{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}" el_id="el_tophead"][heading2 title="Om BubbleBall / BumperBall / LoopyBall / ZorbBall - kärt barn har många namn*" style="el_tophead"][vc_images_carousel images="337,338,339,340,341,343" img_size="1450x400" onclick="link_no" autoplay="yes" hide_pagination_control="yes" hide_prev_next_buttons="yes" wrap="yes" css_animation="fadeInRight"][/vc_column][/vc_row][vc_row][vc_column width="1/3" css=".vc_custom_1488971172190{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][heading2 title="Vad är det?"][vc_column_text]En fartfylld aktivitet, där ni på ett säkert sätt kan tackla vänner eller kollegor. Garanterat skratt, fart och härliga närkamper. Spela fotboll iklädda luftfyllda skyddsvästar i form av bollar.
 
 Det finns nästan inga begränsningar på vad man kan hitta på med bollarna, men vanligaste aktiviteterna är fotbollsturnering, gladiator-rugby eller bowling. Vad just ni vill göra bestämmer ni i förväg eller på plats i samråd med instruktören.
 
