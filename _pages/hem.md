@@ -15,7 +15,7 @@ En fartfylld aktivitet, där ni på ett säkert sätt kan tackla kollegorna. Gar
 
 Vanligaste aktiviteterna är fotbollsturnering, gladiator-rugby eller "human bowling".
 
-Upplägget är helt mobilt, vi kommer till er i hela Sverige. Man spelar på gräs, konstgräs eller inomhus.[/vc_column_text][vc_btn title="Läs mer" color="orange" align="center" i_align="right" i_icon_fontawesome="fa fa-arrow-right" button_block="true" add_icon="true"][/vc_column][vc_column width="1/3" el_class="blackbg"][vc_text_separator title="Upplev BubbleBall" color="custom" accent_color="#000000"][vc_video link="https://www.youtube.com/watch?v=f92yfPFl9NY"][vc_column_text]<strong>Hur kul vill ni ha??</strong>
+Upplägget är helt mobilt, vi kommer till er i hela Sverige. Man spelar på gräs, konstgräs eller inomhus.[/vc_column_text][vc_btn title="Läs mer" color="orange" align="center" i_align="right" i_icon_fontawesome="fa fa-arrow-right" button_block="true" add_icon="true"][/vc_column][vc_column width="1/3" el_class="blackbg"][vc_text_separator title="Upplev BubbleBall" color="custom" accent_color="#000000"][vc_video link="https://www.youtube.com/watch?v=f92yfPFl9NY"][vc_column_text]<b>Hur kul vill ni ha??</b>
 
 Det finns inga begränsningar på vad man kan hitta på med bollarna, men den vanligaste aktiviteten är att köra en fotbollsturnering.
 
