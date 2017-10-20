@@ -16,13 +16,13 @@ En fartfylld aktivitet, där ni på ett säkert sätt kan tackla kollegorna. Gar
 
 Vanligaste aktiviteterna är fotbollsturnering, gladiator-rugby eller "human bowling".
 
-Upplägget är helt mobilt, vi kommer till er i hela Sverige. Man spelar på gräs, konstgräs eller inomhus.[/vc_column_text][vc_btn title="Läs mer" style="custom" custom_background="#fc6021" custom_text="#666666" align="center" i_align="right" i_icon_fontawesome="fa fa-arrow-right" button_block="true" add_icon="true" css=".vc_custom_1508497420578{margin-top: -40px !important;}"][/vc_column][vc_column width="1/3" el_class="blackbg"][vc_text_separator title="Upplev BubbleBall" color="custom" accent_color="#000000"][vc_video link="https://www.youtube.com/watch?v=f92yfPFl9NY"][vc_column_text]<b>Hur kul vill ni ha??</b>
+Upplägget är helt mobilt, vi kommer till er i hela Sverige. Man spelar på gräs, konstgräs eller inomhus.[/vc_column_text][vc_btn title="Läs mer" style="custom" custom_background="#fc6021" custom_text="#666666" align="center" i_align="right" i_icon_fontawesome="fa fa-arrow-right" button_block="true" add_icon="true" css=".vc_custom_1508497487498{margin-top: -20px !important;}"][/vc_column][vc_column width="1/3" el_class="blackbg"][vc_text_separator title="Upplev BubbleBall" color="custom" accent_color="#000000"][vc_video link="https://www.youtube.com/watch?v=f92yfPFl9NY"][vc_column_text]<b>Hur kul vill ni ha??</b>
 
 Det finns inga begränsningar på vad man kan hitta på med bollarna, men den vanligaste aktiviteten är att köra en fotbollsturnering.
 
 Kolla in våra roliga videoklipp med bl.a fotboll, bowling och anndra idéer på vad ni kan göra på ert event.
 
-Upplägget är helt mobilt, vi kommer till er med bollar och annan utrustning. Vi spelar på gräs, konstgräs eller inomhus.[/vc_column_text][vc_btn title="Se videoklipp" style="custom" custom_background="#fc6021" custom_text="#666666" align="center" i_align="right" i_icon_fontawesome="fa fa-play-circle-o" button_block="true" add_icon="true"][/vc_column][vc_column width="1/3" el_class="blackbg"][vc_text_separator title="Vi kan det här!" color="custom" accent_color="#000000"][vc_single_image image="388" img_size="full"][vc_column_text css=".vc_custom_1508497318898{margin-top: -40px !important;}"]<strong>Först i Sverige på BubbleBall</strong>
+Upplägget är helt mobilt, vi kommer till er med bollar och annan utrustning. Vi spelar på gräs, konstgräs eller inomhus.[/vc_column_text][vc_btn title="Se videoklipp" style="custom" custom_background="#fc6021" custom_text="#666666" align="center" i_align="right" i_icon_fontawesome="fa fa-play-circle-o" button_block="true" add_icon="true"][/vc_column][vc_column width="1/3" el_class="blackbg"][vc_text_separator title="Vi kan det här!" color="custom" accent_color="#000000"][vc_single_image image="388" img_size="full"][vc_column_text css=".vc_custom_1508497498474{margin-top: -20px !important;}"]<strong>Först i Sverige på BubbleBall</strong>
 
 Vi har det, vi kan det, vi startade det och vi har erfarenhet av tusentals lyckliga kunder.
 
