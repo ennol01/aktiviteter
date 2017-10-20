@@ -36,4 +36,4 @@ Vi har det, vi kan det, vi startade det och vi har erfarenhet av tusentals lyc
 </div>
 </div>
 <div id="collection5" class="h24_collection h24_last_collection " data-collection-index="5"></div>
-[/vc_column_text][vc_single_image image="101" img_size="full" alignment="center"][/vc_column][/vc_row]
+[/vc_column_text][vc_single_image image="101" img_size="full" alignment="center"][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image="342" img_size="full"][/vc_column][/vc_row]
