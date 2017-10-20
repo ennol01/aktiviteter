@@ -1,52 +1,13 @@
 ---
-ID: 204
+ID: 233
 post_title: Bubbleball och Bumperball i Uppsala
 author: ennol
-post_date: 2017-03-08 19:14:17
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/har-finns-vi/uppsala/
+  http://2017.archertag.se/bubbleball-och-bumperball-i-uppsala/
 published: true
-slide_template:
-  - default
-mo_slider_choice:
-  - None
-mo_revolution_slider_choice:
-  - none
-mo_custom_primary_navigation_menu:
-  - default
-mo_primary_sidebar_choice:
-  - default
-partnerkontakt:
-  - |
-    <div id="block_container_91047712" class="block_container presentation_image_block">
-    <div id="block_91047712">
-    <div class="h24_normal_text">
-    <div class="h24_image_block_align h24_image_block_align_left    "><a class="h24-js-iv" title="" href="http://dst15js82dk7j.cloudfront.net/183390/50909699-Mbpsh.jpg"><img id="block_img_91047712" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/50909698-hbnkD.jpg" alt="" /></a></div>
-    </div>
-    </div>
-    </div>
-    <div id="block_container_91047710" class="block_container standard_text_block text_block">
-    <div id="block_91047710">
-    <div id="block_91047710_text_content" class="text_content">
-    
-    <strong>Eventmanager:</strong>
-    Rolle "rull" Karlsson
-    Växel: 08-21 85 05
-    
-    Mejl: uppsala@bubbleball.se
-    
-    <strong>Övriga tjänster:</strong>
-    <ul>
-    <li>Konferenser</li>
-    <li>Catering/middagar</li>
-    <li>Andra aktiviteter</li>
-    <li>Valfri spelplats</li>
-    </ul>
-    </div>
-    </div>
-    </div>
+post_date: 2017-03-08 19:14:17
 ---
 <div id="block_container_91047714" class="block_container presentation_image_block">
 <div id="block_91047714">

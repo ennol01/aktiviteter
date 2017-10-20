@@ -1,42 +1,13 @@
 ---
-ID: 211
+ID: 198
 post_title: 'Bubbleball &#038; Bumperball i Gävle, Tierp, Ljusdal mm'
 author: ennol
-post_date: 2017-03-08 19:16:04
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/har-finns-vi/gavle/
+  http://2017.archertag.se/bubbleball-bumperball-i-gavle-tierp-ljusdal-mm/
 published: true
-slide_template:
-  - default
-mo_slider_choice:
-  - None
-mo_revolution_slider_choice:
-  - none
-mo_custom_primary_navigation_menu:
-  - default
-mo_primary_sidebar_choice:
-  - default
-partnerkontakt:
-  - |
-    <div id="block_container_97465803" class="block_container presentation_image_block">
-    <div id="block_97465803">
-    <div class="h24_normal_text">
-    <div class="h24_image_block_align h24_image_block_align_left    "><img id="block_img_97465803" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/59568568-Jvmhn.jpg" alt="" /></div>
-    </div>
-    </div>
-    </div>
-    <div id="block_container_97465805" class="block_container standard_text_block text_block">
-    <div id="block_97465805">
-    <div id="block_97465805_text_content" class="text_content">
-    
-    Tel centralbokning: 08-21 85 05
-    Mejl: gavle@bubbleball.se
-    
-    </div>
-    </div>
-    </div>
+post_date: 2017-03-08 19:16:04
 ---
 <div id="block_container_97465804" class="block_container presentation_image_block">
 <div id="block_97465804">

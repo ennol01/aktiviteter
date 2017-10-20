@@ -1,36 +1,15 @@
 ---
-ID: 189
+ID: 203
 post_title: >
   Bubbleball i Helsingborg, Landskrona och
   Ven
 author: ennol
-post_date: 2017-03-08 19:11:04
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/har-finns-vi/halsingborg-ven/
+  http://2017.archertag.se/bubbleball-i-helsingborg-landskrona-och-ven/
 published: true
-slide_template:
-  - default
-mo_slider_choice:
-  - None
-mo_revolution_slider_choice:
-  - none
-mo_custom_primary_navigation_menu:
-  - default
-mo_primary_sidebar_choice:
-  - default
-partnerkontakt:
-  - |
-    <div id="text_block_image_88020539" class="float-right text_block_image_div h24_normal_text"><img id="block_img_88020539" class="resizeable text_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/46768040-UnYrA.jpg" alt="" /></div>
-    <div id="block_88020539_text_content" class="text_content">
-    
-    Eventmanager
-    Magnus Pettersson
-    mejl; magnus@bubbleball.se
-    Tel: 0418-72262
-    
-    </div>
+post_date: 2017-03-08 19:11:04
 ---
 <div id="block_container_90642435" class="block_container presentation_image_block">
 <div id="block_90642435">

@@ -2,49 +2,12 @@
 ID: 193
 post_title: 'Bubbleball  i Eskilstuna &#038; Strängnäs'
 author: ennol
-post_date: 2017-03-08 19:12:01
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/har-finns-vi/eskilstuna-strangnas/
+  http://2017.archertag.se/bubbleball-i-eskilstuna-strangnas/
 published: true
-slide_template:
-  - default
-mo_slider_choice:
-  - None
-mo_revolution_slider_choice:
-  - none
-mo_custom_primary_navigation_menu:
-  - default
-mo_primary_sidebar_choice:
-  - default
-partnerkontakt:
-  - |
-    <div id="block_container_93208162" class="block_container presentation_image_block">
-    <div id="block_93208162">
-    <div class="h24_normal_text">
-    <div class="h24_image_block_align h24_image_block_align_left  h24_image_block_radius_medium  "><img id="block_img_93208162" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/53999704-cwHcz.jpg" alt="" /></div>
-    </div>
-    </div>
-    </div>
-    <div id="block_container_93208160" class="block_container standard_text_block text_block">
-    <div id="block_93208160">
-    <div id="block_93208160_text_content" class="text_content"><strong>Eventmanager</strong>;
-    Andreas Dybedahl
-    
-    Tele: Centralbokningen
-    08-21 85 05
-    Mejl: info@bubbleball.se
-    
-    <strong>Övriga tjänster:</strong>
-    <ul>
-    <li>Catering/middagar</li>
-    <li>Konferens</li>
-    <li>Andra aktiviteter</li>
-    </ul>
-    </div>
-    </div>
-    </div>
+post_date: 2017-03-08 19:12:01
 ---
 <div id="block_container_93208157" class="block_container h24_block_heading">
 <div id="block_93208157">

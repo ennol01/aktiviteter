@@ -1,52 +1,13 @@
 ---
-ID: 187
+ID: 210
 post_title: Bubbleball och Bumperball i Värmland
 author: ennol
-post_date: 2017-03-08 19:10:34
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/har-finns-vi/karlstad/
+  http://2017.archertag.se/bubbleball-och-bumperball-i-varmland/
 published: true
-slide_template:
-  - default
-mo_slider_choice:
-  - None
-mo_revolution_slider_choice:
-  - none
-mo_custom_primary_navigation_menu:
-  - default
-mo_primary_sidebar_choice:
-  - default
-partnerkontakt:
-  - |
-    <div id="block_container_89178472" class="block_container presentation_image_block">
-    <div id="block_89178472">
-    <div class="h24_normal_text">
-    <div class="h24_image_block_align h24_image_block_align_left    "><img id="block_img_89178472" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/48619565-Stz4Y.jpg" alt="" /></div>
-    </div>
-    </div>
-    </div>
-    <div id="block_container_89178470" class="block_container standard_text_block text_block">
-    <div id="block_89178470">
-    <div id="block_89178470_text_content" class="text_content">
-    
-    Eventmanager:
-    Eddie Eurenius
-    Tele:  0765-792585
-    Mejl: karlstad@bubbleball.se
-    
-    Övriga tjänster:
-    <ul>
-    <li>Hallbokning</li>
-    <li>Catering</li>
-    <li>Transport</li>
-    <li>Flerkamper</li>
-    </ul>
-    Extern web:
-    <a href="http://www.wermlandsevent.com/">wermlandsevent.com</a></div>
-    </div>
-    </div>
+post_date: 2017-03-08 19:10:34
 ---
 <div id="collection0" class="h24_collection h24_first_collection    " data-collection-index="0">
 <div id="block_container_89192937" class="block_container presentation_image_block">

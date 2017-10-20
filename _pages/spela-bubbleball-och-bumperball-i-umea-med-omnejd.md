@@ -1,60 +1,15 @@
 ---
-ID: 217
+ID: 231
 post_title: >
   Spela Bubbleball och Bumperball i Umeå
   med omnejd
 author: ennol
-post_date: 2017-03-08 19:17:19
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/har-finns-vi/umea/
+  http://2017.archertag.se/spela-bubbleball-och-bumperball-i-umea-med-omnejd/
 published: true
-slide_template:
-  - default
-mo_slider_choice:
-  - None
-mo_revolution_slider_choice:
-  - none
-mo_custom_primary_navigation_menu:
-  - default
-mo_primary_sidebar_choice:
-  - default
-partnerkontakt:
-  - |
-    <div id="block_container_98324548" class="block_container presentation_image_block">
-    <div id="block_98324548">
-    <div class="h24_normal_text">
-    <div class="h24_image_block_align h24_image_block_align_left    "><img id="block_img_98324548" class="presentation_image_block_image" title="" src="http://h24-original.s3.amazonaws.com/183390/21258437-4FIbq.png" alt="" /></div>
-    </div>
-    </div>
-    </div>
-    <div id="block_container_98324547" class="block_container standard_text_block text_block">
-    <div id="block_98324547">
-    <div id="block_98324547_text_content" class="text_content">
-    
-    Balfors Event &amp; Äventyr
-    Balfors 65
-    91692 Bjurholm
-    
-    Telefon: 0932-10033
-    Mobil: 070-3049620
-    
-    Mejl: info@balforsevent.se
-    Extern web:
-    <a href="http://balforsevent.se/" target="_blank">balforsevent.se</a></div>
-    </div>
-    <div class="clearer"></div>
-    </div>
-    <div id="block_container_98324868" class="block_container standard_text_block text_block">
-    <div id="block_98324868">
-    <div id="block_98324868_text_content" class="text_content">
-    
-    BubbleBall-partner i områden omkring Bjurholm, Åsele, Fredrika, Umeå, Örnsköldsvik, Kramfors, Härnösand, Sollefteå, Holmsund, Skellefteå och Lycksele m.fl.
-    
-    </div>
-    </div>
-    </div>
+post_date: 2017-03-08 19:17:19
 ---
 <div id="block_container_98324549" class="block_container presentation_image_block">
 <div id="block_98324549">

@@ -1,50 +1,13 @@
 ---
-ID: 191
+ID: 236
 post_title: 'Bubbleball  i Västerås &#038; Enköping'
 author: ennol
-post_date: 2017-03-08 19:11:32
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stockholmcoder.com/har-finns-vi/vasteras-enkoping/
+  http://2017.archertag.se/bubbleball-i-vasteras-enkoping/
 published: true
-slide_template:
-  - default
-mo_slider_choice:
-  - None
-mo_revolution_slider_choice:
-  - none
-mo_custom_primary_navigation_menu:
-  - default
-mo_primary_sidebar_choice:
-  - default
-partnerkontakt:
-  - |
-    <div id="block_container_89194652" class="block_container presentation_image_block">
-    <div id="block_89194652">
-    <div class="h24_normal_text">
-    <div class="h24_image_block_align h24_image_block_align_left  h24_image_block_radius_medium  "><img id="block_img_89194652" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/49435180-Ag3tA.jpg" alt="" /></div>
-    </div>
-    </div>
-    </div>
-    <div id="block_container_89194650" class="block_container standard_text_block text_block">
-    <div id="block_89194650">
-    <div id="block_89194650_text_content" class="text_content"><strong>Eventmanager</strong>;
-    Andreas Dybedahl
-    
-    Tele: Centralbokningen
-    08-21 85 05
-    Mejl: info@bubbleball.se
-    
-    <strong>Övriga tjänster:</strong>
-    <ul>
-    <li>Catering/middagar</li>
-    <li>Konferens</li>
-    <li>Andra aktiviteter</li>
-    </ul>
-    </div>
-    </div>
-    </div>
+post_date: 2017-03-08 19:11:32
 ---
 <div id="block_container_91111153" class="block_container presentation_image_block">
 <div id="block_91111153">

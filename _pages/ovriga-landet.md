@@ -1,21 +1,10 @@
 ---
-ID: 221
+ID: 224
 post_title: Övriga Landet
 author: ennol
-post_date: 2017-03-08 19:18:26
 post_excerpt: ""
 layout: page
-permalink: >
-  http://stockholmcoder.com/har-finns-vi/ovriga-landet/
+permalink: http://2017.archertag.se/ovriga-landet/
 published: true
-slide_template:
-  - default
-mo_slider_choice:
-  - None
-mo_revolution_slider_choice:
-  - none
-mo_custom_primary_navigation_menu:
-  - default
-mo_primary_sidebar_choice:
-  - default
+post_date: 2017-03-08 19:18:26
 ---
