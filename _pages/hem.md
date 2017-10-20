@@ -8,7 +8,7 @@ permalink: http://2017.bubbleball.se/
 published: true
 post_date: 2017-03-08 12:31:16
 ---
-[vc_row][vc_column width="1/3" el_class="blackbg"][vc_column_text][heading2 title="BubbleBall i hela Sverige"][vc_single_image image="388" img_size="large"][vc_column_text ]<strong>Om Bubbleball</strong>
+[vc_row][vc_column][vc_single_image image="342" img_size="full"][/vc_column][/vc_row][vc_row][vc_column width="1/3" el_class="blackbg"][vc_column_text][heading2 title="BubbleBall i hela Sverige"][vc_single_image image="388" img_size="large"][vc_column_text ]<strong>Om Bubbleball</strong>
 En fartfylld aktivitet, där ni på ett säkert sätt kan tackla kollegorna. Garanterat skratt, fart och härliga närkamper. Spela fotboll iklädda luftfyllda skyddsvästar i form av bollar.
 
 Vanligaste aktiviteterna är fotbollsturnering, gladiator-rugby eller "human bowling".
@@ -36,4 +36,4 @@ Vi har det, vi kan det, vi startade det och vi har erfarenhet av tusentals lyc
 </div>
 </div>
 <div id="collection5" class="h24_collection h24_last_collection " data-collection-index="5"></div>
-[/vc_column_text][vc_single_image image="101" img_size="full" alignment="center"][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image="342" img_size="full"][/vc_column][/vc_row]
+[/vc_column_text][vc_single_image image="101" img_size="full" alignment="center"][/vc_column][/vc_row]
