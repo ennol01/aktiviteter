@@ -8,7 +8,9 @@ permalink: http://2017.bubbleball.se/
 published: true
 post_date: 2017-03-08 12:31:16
 ---
-[vc_row][vc_column][vc_single_image image="342" img_size="full"][/vc_column][/vc_row][vc_row][vc_column width="1/3" el_class="blackbg"][vc_column_text][heading2 title="BubbleBall i hela Sverige"][vc_single_image image="388" img_size="large"][vc_column_text ]<strong>Om Bubbleball</strong>
+[vc_row][vc_column][vc_column_text]
+<h3><span style="color: #ff00ff;"><strong>SUCCÉSPORTEN!</strong></span></h3>
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image="342" img_size="full"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]Vi ordnar spel över hela landet. Ring centralbokningen för mer info 08-21 85 05[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/3" el_class="blackbg"][vc_column_text][heading2 title="BubbleBall i hela Sverige"][vc_single_image image="388" img_size="large"][vc_column_text ]<strong>Om Bubbleball</strong>
 En fartfylld aktivitet, där ni på ett säkert sätt kan tackla kollegorna. Garanterat skratt, fart och härliga närkamper. Spela fotboll iklädda luftfyllda skyddsvästar i form av bollar.
 
 Vanligaste aktiviteterna är fotbollsturnering, gladiator-rugby eller "human bowling".
