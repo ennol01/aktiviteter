@@ -2,23 +2,15 @@
 ID: 175
 post_title: Priser
 author: ennol
-post_date: 2017-03-08 19:07:56
 post_excerpt: ""
 layout: page
-permalink: http://stockholmcoder.com/boka/priser/
+permalink: http://2017.bubbleball.se/boka/priser/
 published: true
-slide_template:
-  - default
-mo_slider_choice:
-  - None
-mo_revolution_slider_choice:
-  - none
-mo_custom_primary_navigation_menu:
-  - default
-mo_primary_sidebar_choice:
-  - default
+post_date: 2017-03-08 19:07:56
 ---
-[vc_row][vc_column][heading2 title="Priser på BubbleBall/BumperBall-turnering"][/vc_column][vc_column width="4/6"][heading2 title="Pris privatpersoner (svensexor, möhippor, föreningar)"][vc_column_text]Detta ingår
+[vc_row][vc_column width="5/6" css=".vc_custom_1508492582033{margin-top: -40px !important;}"][vc_column_text css=".vc_custom_1508491377535{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: 0px !important;}"]
+<h3><span style="color: #ff00ff;"><strong>SUCCÉSPORTEN!</strong></span></h3>
+[/vc_column_text][vc_single_image image="342" img_size="full" css=".vc_custom_1508491684320{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1508492549021{margin-top: -50px !important;border-top-width: 0px !important;padding-top: 0px !important;}"]Vi ordnar spel över hela landet. Ring centralbokningen för mer info 08-21 85 05[/vc_column_text][/vc_column][vc_column width="1/6" css=".vc_custom_1508492632173{margin-top: -40px !important;}"][vc_btn title="BOKA HÄR!" style="custom" custom_background="#fc6021" custom_text="#ffffff" size="lg" align="center" css_animation="bounceInRight" button_block="true" css=".vc_custom_1508492408994{margin-top: 30px !important;margin-right: 20px !important;border-right-width: 30px !important;border-left-width: 30px !important;padding-top: 25px !important;padding-right: 10px !important;padding-bottom: 25px !important;padding-left: 10px !important;}"][/vc_column][/vc_row][vc_row][vc_column][heading2 title="Priser på BubbleBall/BumperBall-turnering"][/vc_column][vc_column width="4/6"][heading2 title="Pris privatpersoner (svensexor, möhippor, föreningar)"][vc_column_text]Detta ingår
 <ul>
  	<li>upp till 2 timmars spel</li>
  	<li>Instruktör/domare</li>
@@ -63,6 +55,6 @@ Framkörning kan tillkomma. Fråga vid <a href="http://www.bubbleball.se/boka-22
  	<li>Avbokning senare än 48 timmar debiteras 100% av eventet.</li>
  	<li>Avbokning 7 dagar innan debiteras 50% av bokat antal deltagare</li>
  	<li>Avbokning 14 dagar innan event kan avbokas kostnadsfritt (privatpersoner).</li>
- 	<li>För företag gäller <a href="http://www.visita.se/globalassets/mitt-foretag/bokningsregler/allmanna-villkor141101_konferenser_gruppbokningar.pdf" target="_blank">Visita's (tidigare SHR) allmäna villkor för konferenser, gruppbokningar och andra arrangemang</a></li>
+ 	<li>För företag gäller <a href="http://www.visita.se/globalassets/mitt-foretag/bokningsregler/allmanna-villkor141101_konferenser_gruppbokningar.pdf" target="_blank" rel="noopener">Visita's (tidigare SHR) allmäna villkor för konferenser, gruppbokningar och andra arrangemang</a></li>
 </ul>
 [/vc_column_text][/vc_column][/vc_row]
