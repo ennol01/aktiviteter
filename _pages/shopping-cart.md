@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2017-10-24 22:57:12
 ---
+[vc_row][vc_column][woocommerce_cart][/vc_column][/vc_row]
