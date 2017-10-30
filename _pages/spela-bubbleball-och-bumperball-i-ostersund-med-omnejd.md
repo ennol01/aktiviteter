@@ -14,8 +14,10 @@ post_date: 2017-03-08 19:17:51
 <div id="block_container_98325056" class="block_container presentation_image_block">
 <div id="block_98325056">
 <div class="h24_normal_text">
-<div class="h24_image_block_align h24_image_block_align_left     h24_image_custom_height"><a class="h24-js-iv" title="Bubbleball in Action!" href="http://dst15js82dk7j.cloudfront.net/183390/60566614-pyKeq.jpg?name=Bubbleball_in_Action%21.jpg"><img id="block_img_98325056" class="presentation_image_block_image" title="Bubbleball in Action!" src="http://dst15js82dk7j.cloudfront.net/183390/60566613-ZMkju.jpg" alt="Bubbleball in Action!" /></a></div>
-<span id="block_text_98325056" class="h24_caption h24_image_block_align_left">Bubbleball in Action!</span></div>
+<div class="h24_image_block_align h24_image_block_align_left h24_image_custom_height"><a class="h24-js-iv" title="Bubbleball in Action!" href="http://dst15js82dk7j.cloudfront.net/183390/60566614-pyKeq.jpg?name=Bubbleball_in_Action%21.jpg"><img id="block_img_98325056" class="presentation_image_block_image" title="Bubbleball in Action!" src="http://dst15js82dk7j.cloudfront.net/183390/60566613-ZMkju.jpg" alt="Bubbleball in Action!" /></a></div>
+<span id="block_text_98325056" class="h24_caption h24_image_block_align_left">Bubbleball in mega Action!</span>
+
+</div>
 </div>
 </div>
 <div id="block_container_98325052" class="block_container standard_text_block text_block">
