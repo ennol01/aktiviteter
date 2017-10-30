@@ -28,7 +28,7 @@ post_date: 2017-03-08 19:17:19
 <div id="block_98324545">
 <div id="block_98324545_text_content" class="text_content">
 
-Då vi på Balfors Event &amp; Äventyr Sätter Dig som kund i första hand har vi inga bestämda öppettider, utan anpassar oss efter Era önskemål.
+Ja, vi på Balfors Event &amp; Äventyr Sätter Dig som kund i första hand! Därför har vi inga bestämda öppettider, utan anpassar oss efter Era önskemål.
 
 Alla möten och överenskommelser planerar vi tillsammans. Det viktigaste för oss är Ni som kund blir nöjd. Ni kan antingen hämta utrustning själva eller så levererar vi till Er!
 
