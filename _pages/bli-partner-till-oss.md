@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: page
 permalink: >
-  http://2017.bubbleball.se/om-bubble-ball/bli-partner-till-oss/
+  http://2017.bubbleball.se/om-bubble-ball__trashed/bli-partner-till-oss/
 published: true
 post_date: 2017-03-08 19:02:58
 ---

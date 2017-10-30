@@ -1,11 +1,11 @@
 ---
-ID: 187
+ID: 177
 post_title: Bokningsformulär
 author: ennol
 post_excerpt: ""
 layout: page
 permalink: >
-  http://2017.archertag.se/bokningsformular/
+  http://2017.bubbleball.se/boka__trashed/bokningsformular/
 published: true
 post_date: 2017-03-08 19:08:24
 ---
@@ -19,7 +19,7 @@ Missa inte Archertag-Erbjudandet, <a href="http://www.bubbleball.se/erbjudanden/
 
 Cirkapris enligt ordinarie prislista* 390:- per person. Minsta debitering 10 personer.
 
-<em>*Lokala prisvariationer förekommer</em>[/vc_column_text][contact-form-7 id="25"][/vc_column][vc_column width="2/6"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]<strong>08-218505</strong>[/vc_column_text][heading2 title="E-post till huvudkontoret"][vc_column_text]Bokning:
+<em>*Lokala prisvariationer förekommer</em>[/vc_column_text][contact-form-7 id="25"][contact_form][/vc_column][vc_column width="2/6"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]<strong>08-218505</strong>[/vc_column_text][heading2 title="E-post till huvudkontoret"][vc_column_text]Bokning:
 boka@bubbleball.se
 
 Frågor och övrigt:
