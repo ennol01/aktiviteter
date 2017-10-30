@@ -1,11 +1,11 @@
 ---
-ID: 562
+ID: 308
 post_title: shopping cart
-author: ennol
+author: ovesa
 post_excerpt: ""
 layout: page
 permalink: >
-  http://2017.bubbleball.se/kop-produkter__trashed/shopping-cart/
+  http://2017.archertag.se/shopping-cart-2/
 published: true
 post_date: 2017-10-24 22:57:12
 ---
