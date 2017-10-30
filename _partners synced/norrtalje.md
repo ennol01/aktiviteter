@@ -27,7 +27,7 @@ post_date: 2017-03-08 19:16:44
 
 Fantastiska Norrtälje och Roslagen, nu är vi här. Stora starka och väldigt roliga företaget www.gotballs.se
 För dessa var det givet bli en del av bubbleball Sverige;
-- För bra slogan kan man ha utan att veta om det egentligen; We've got balls!!! Yes!
+- För bra slogan kan man ha utan att veta om det egentligen; We've got balls!!! Yes!!
 
 Våra kunder är allt från stora företag till små företag, svensexor, möhippor, skolor och idrottsföreningar.
 
