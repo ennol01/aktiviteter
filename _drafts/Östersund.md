@@ -1,10 +1,10 @@
 ---
-ID: 769
+ID: 546
 post_title: Östersund
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
-permalink: 'http://2017.bubbleball.se/?post_type=partnerssynced&p=769'
+permalink: 'http://2017.archertag.se/?post_type=partnerssynced&p=546'
 published: false
 ---
 [vc_row][vc_column][vc_column_text]
