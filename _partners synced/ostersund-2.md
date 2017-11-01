@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.archertag.se/Partnerssynced/ostersund-och-omkring/
+  http://2017.archertag.se/Partnerssynced/ostersund-2/
 published: true
 post_date: 2017-11-01 14:45:17
 ---
