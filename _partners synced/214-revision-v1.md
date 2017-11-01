@@ -1,11 +1,11 @@
 ---
 ID: 215
-post_title: Bubbleball och Bumperball i Åre.
+post_title: Bubbleball och Bumperball i Åre!
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partnerssynced/are/
+  http://2017.archertag.se/Partnerssynced/214-revision-v1/
 published: true
 post_date: 2017-03-08 19:17:00
 ---
