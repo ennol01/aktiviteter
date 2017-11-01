@@ -1,11 +1,11 @@
 ---
-ID: 745
+ID: 533
 post_title: Priser och Bokning
 author: ennol
 post_excerpt: ""
 layout: page
 permalink: >
-  http://2017.bubbleball.se/priser-och-bokning/
+  http://2017.archertag.se/priser-och-bokning-2/
 published: true
 post_date: 2017-05-14 13:37:16
 ---

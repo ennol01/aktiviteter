@@ -1,11 +1,11 @@
 ---
-ID: 699
+ID: 506
 post_title: Bubbleball i Halmstad med omnejd
 author: ennol
 post_excerpt: ""
 layout: page
 permalink: >
-  http://2017.bubbleball.se/bubbleball-i-halmstad-med-omnejd/
+  http://2017.archertag.se/bubbleball-i-halmstad-med-omnejd-2/
 published: true
 post_date: 2017-03-08 19:13:04
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 763
+ID: 545
 post_title: Bubbleball och Bumperball i Stockholm!
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partnerssynced/bubbleball-och-bumperball-i-stockholm/
+  http://2017.archertag.se/Partnerssynced/bubbleball-och-bumperball-i-stockholm/
 published: true
 post_date: 2017-03-08 19:05:46
 ---

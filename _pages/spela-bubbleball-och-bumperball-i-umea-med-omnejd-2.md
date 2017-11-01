@@ -1,5 +1,5 @@
 ---
-ID: 755
+ID: 538
 post_title: >
   Spela Bubbleball och Bumperball i Umeå
   med omnejd
@@ -7,7 +7,7 @@ author: ennol
 post_excerpt: ""
 layout: page
 permalink: >
-  http://2017.bubbleball.se/spela-bubbleball-och-bumperball-i-umea-med-omnejd/
+  http://2017.archertag.se/spela-bubbleball-och-bumperball-i-umea-med-omnejd-2/
 published: true
 post_date: 2017-03-08 19:17:19
 ---
