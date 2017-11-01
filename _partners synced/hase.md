@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-11-01 14:46:49
 ---
-[vc_row][vc_column][vc_column_text]fase[/vc_column_text][/vc_column][/vc_row]
+[vc_row][vc_column][vc_column_text]hase[/vc_column_text][/vc_column][/vc_row]
