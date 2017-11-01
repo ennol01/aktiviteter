@@ -1,5 +1,5 @@
 ---
-ID: 189
+ID: 762
 post_title: >
   Bubbleball i Helsingborg, Landskrona och
   Ven
@@ -7,7 +7,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.archertag.se/Partnerssynced/bokningsregler/
+  http://2017.bubbleball.se/Partnerssynced/bubbleball-i-helsingborg-landskrona-och-ven/
 published: true
 post_date: 2017-03-08 19:11:04
 ---

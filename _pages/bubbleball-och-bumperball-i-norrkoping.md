@@ -1,11 +1,11 @@
 ---
-ID: 216
+ID: 707
 post_title: Bubbleball och Bumperball i Norrköping
 author: ennol
 post_excerpt: ""
 layout: page
 permalink: >
-  http://2017.archertag.se/bubbleball-och-bumperball-i-norrkoping/
+  http://2017.bubbleball.se/bubbleball-och-bumperball-i-norrkoping/
 published: true
 post_date: 2017-03-08 19:09:34
 ---
