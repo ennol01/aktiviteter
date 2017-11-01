@@ -23,6 +23,7 @@ post_date: 2017-03-08 19:09:15
 
 <strong>LUTHINS EVENT</strong>
 
+LALALALA 
 Vi jobbar med skräddarsydda event och aktiviteter på privata och företagsfester. Genom lång erfarenhet från restaurang och eventbranschen samt med flera värdefulla kontakter hjälper vi dig att uppfylla dina önskemål om ett lyckat arrangemang från start till mål.
 
 Vi har genomfört många Bubbleball-events i Halmstad, Göteborg, Borås, Alingsås, Varberg, Kungsbacka, Kinna, Värnamo och Falkenberg.
