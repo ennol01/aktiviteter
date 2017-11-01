@@ -7,14 +7,11 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partners
-  synced/alingsas-boras/
+  http://2017.bubbleball.se/Partnerssynced/alingsas-boras/
 published: true
 post_date: 2017-03-08 19:14:50
 ---
-[vc_row][vc_column width="5/6" css=".vc_custom_1508492582033{margin-top: -40px !important;}"][vc_column_text css=".vc_custom_1508491377535{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: 0px !important;}"]
-<h3><span style="color: #ff00ff;"><strong>SUCCÉSPORTEN!</strong></span></h3>
-[/vc_column_text][vc_single_image image="342" img_size="full" css=".vc_custom_1508491684320{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1508492549021{margin-top: -50px !important;border-top-width: 0px !important;padding-top: 0px !important;}"]Vi ordnar spel över hela landet. Ring centralbokningen för mer info 08-21 85 05[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
+[vc_row][vc_column][vc_column_text]
 <div id="block_container_90655884" class="block_container h24_block_heading">
 <div id="block_90655884">
 <div class="small_heading_block">
