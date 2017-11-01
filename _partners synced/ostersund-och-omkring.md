@@ -1,11 +1,13 @@
 ---
 ID: 546
-post_title: Östersund
+post_title: Östersund och omkring
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
-permalink: 'http://2017.archertag.se/?post_type=partnerssynced&p=546'
-published: false
+permalink: >
+  http://2017.archertag.se/Partnerssynced/ostersund-och-omkring/
+published: true
+post_date: 2017-11-01 14:45:17
 ---
 [vc_row][vc_column][vc_column_text]
 <div id="block_container_98325056" class="block_container presentation_image_block">
