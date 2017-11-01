@@ -1,11 +1,11 @@
 ---
-ID: 633
+ID: 469
 post_title: Site Header Logo
-author: ennol
+author: ovesa
 post_excerpt: ""
 layout: post
 permalink: >
-  http://2017.bubbleball.se/site-header-logo/
+  http://2017.archertag.se/site-header-logo-2/
 published: true
 post_date: 2017-10-31 11:21:25
 ---
