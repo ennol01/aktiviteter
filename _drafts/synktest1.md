@@ -1,10 +1,10 @@
 ---
-ID: 774
+ID: 747
 post_title: synktest1
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
-permalink: 'http://2017.bubbleball.se/?post_type=partnerssynced&p=774'
+permalink: 'http://2017.archertag.se/?post_type=partnerssynced&p=747'
 published: false
 ---
 [vc_row][vc_column][vc_column_text]
